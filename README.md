@@ -2,7 +2,7 @@
 	<img width="100%" src="./assets/images/aptos_banner_ecosystem.jpg" alt="Aptos Ecosystem Banner" />
 </a>
 
-# **Aptos Ecosystem** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# **Aptos Ecosystem**
 
 A collection of live projects within the Aptos ecosystem.
 

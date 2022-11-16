@@ -34,8 +34,8 @@ A collection of live projects within the Aptos ecosystem.
 
 ## Infra
 - Crust - [Github](https://github.com/crustio) | [Twitter](https://twitter.com/CrustNetwork) | [Website](https://crust.network/)
-- Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 - Pyth Network - [Github](https://github.com/pyth-network) | [Twitter](https://twitter.com/PythNetwork) | [Website](https://pyth.network/)
+- Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 - Wormhole - [Github](https://github.com/wormhole-foundation/wormhole) | [Twitter](https://twitter.com/wormholecrypto) | [Website](https://wormhole.com/)
 
 ## Marketplace

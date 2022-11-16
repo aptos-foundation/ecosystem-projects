@@ -60,6 +60,7 @@ A collection of live projects within the Aptos ecosystem.
 - LayerZero - [Github](https://github.com/LayerZero-Labs/LayerZero-Aptos-Contract) | [Twitter](https://twitter.com/layerzero_labs) | [Website](https://layerzero.network/)
 - Notifi - [Github](https://github.com/notifi-network) | [Twitter](https://twitter.com/NotifiNetwork) | [Website](https://notifi.network/)
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
+- AptosFaucet - [Github](https://github.com/tolgaand/aptosfaucet) | [Website](https://www.aptosfaucet.com)
 
 ## Wallets
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)

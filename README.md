@@ -27,6 +27,7 @@ A collection of live projects within the Aptos ecosystem.
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
 - Ditto - [Twitter](https://twitter.com/Ditto_Finance) | [Website](https://www.dittofinance.io/)
 - HoustonSwap - [Twitter](https://twitter.com/Houston_swap) | [Website](https://houstonswap.io/)
+- Kana Labs - [Twitter](https://twitter.com/kanalabs) | [Website](https://app.kanalabs.io/)
 - Pontem Network - [Github](https://github.com/pontem-network) | [Twitter](https://twitter.com/PontemNetwork) | [Website](https://pontem.network/)
 - Superposition - [Twitter](https://twitter.com/SuperpositionFi) | [Website](https://www.superposition.finance/)
 - Thala Labs - [Twitter](https://twitter.com/ThalaLabs) | [Website](https://www.thalalabs.xyz/)

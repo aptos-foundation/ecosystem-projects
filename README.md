@@ -33,8 +33,8 @@ A collection of live projects within the Aptos ecosystem.
 - Tortuga - [Twitter](https://twitter.com/TortugaFinance) | [Website](https://tortuga.finance/)
 
 ## Infra
-- NodeReal - [Github](https://github.com/node-real)| [Twitter](https://twitter.com/Nodereal_io) | [Website](https://nodereal.io/)
 - Crust - [Github](https://github.com/crustio) | [Twitter](https://twitter.com/CrustNetwork) | [Website](https://crust.network/)
+- NodeReal - [Github](https://github.com/node-real)| [Twitter](https://twitter.com/Nodereal_io) | [Website](https://nodereal.io/)
 - Pyth Network - [Github](https://github.com/pyth-network) | [Twitter](https://twitter.com/PythNetwork) | [Website](https://pyth.network/)
 - Wormhole - [Github](https://github.com/wormhole-foundation/wormhole) | [Twitter](https://twitter.com/wormholecrypto) | [Website](https://wormhole.com/)
 

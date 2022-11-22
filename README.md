@@ -24,19 +24,25 @@ A collection of live projects within the Aptos ecosystem.
 - AnimeSwap - [Github](https://reactjs.org/) | [Twitter](https://twitter.com/animeswap_org)
 - Argo - [Twitter](https://twitter.com/ArgoUSD) | [Website](https://argo.fi/)
 - Aries Markets - [Twitter](https://twitter.com/AriesMarkets) | [Website](https://ariesmarkets.xyz/)
+- AUX - [Github](https://github.com/aux-exchange) | [Twitter](https://twitter.com/AuxExchange) | [Website](https://aux.exchange/)
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
 - Ditto - [Twitter](https://twitter.com/Ditto_Finance) | [Website](https://www.dittofinance.io/)
 - HoustonSwap - [Twitter](https://twitter.com/Houston_swap) | [Website](https://houstonswap.io/)
+- PancakeSwap - [Github](https://github.com/pancakeswap/) | [Twitter](https://twitter.com/pancakeswap) | [Website](https://aptos.pancakeswap.finance/swap)
 - Pontem Network - [Github](https://github.com/pontem-network) | [Twitter](https://twitter.com/PontemNetwork) | [Website](https://pontem.network/)
 - Superposition - [Twitter](https://twitter.com/SuperpositionFi) | [Website](https://www.superposition.finance/)
 - Thala Labs - [Twitter](https://twitter.com/ThalaLabs) | [Website](https://www.thalalabs.xyz/)
 - Tortuga - [Twitter](https://twitter.com/TortugaFinance) | [Website](https://tortuga.finance/)
+- Umi - [Github](https://github.com/umi-ag) | [Twitter](https://twitter.com/umi_protocol) | [Website](https://umi.ag)
 
 ## Infra
 - Crust - [Github](https://github.com/crustio) | [Twitter](https://twitter.com/CrustNetwork) | [Website](https://crust.network/)
+- Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
 - NodeReal - [Github](https://github.com/node-real)| [Twitter](https://twitter.com/Nodereal_io) | [Website](https://nodereal.io/)
 - Pyth Network - [Github](https://github.com/pyth-network) | [Twitter](https://twitter.com/PythNetwork) | [Website](https://pyth.network/)
+- Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 - Wormhole - [Github](https://github.com/wormhole-foundation/wormhole) | [Twitter](https://twitter.com/wormholecrypto) | [Website](https://wormhole.com/)
+- ZettaBlock - [Twitter](https://twitter.com/ZettaBlockHQ) | [Website](https://www.zettablock.com/)
 
 ## Marketplace
 - BlueMove - [Twitter](https://twitter.com/BlueMove_OA) | [Website](https://bluemove.net/)
@@ -46,6 +52,7 @@ A collection of live projects within the Aptos ecosystem.
 
 ## NFT Tooling
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
+- Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
 - Souffl3 - [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 - Topaz - [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
 
@@ -55,11 +62,14 @@ A collection of live projects within the Aptos ecosystem.
     
 ## Tooling
 - Aptos Name Service - [Twitter](https://twitter.com/aptosnames)
+- AptosFaucet - [Github](https://github.com/tolgaand/aptosfaucet) | [Website](https://www.aptosfaucet.com)
+- AptosPassport - [Github](https://github.com/aptospassport) | [Twitter](https://twitter.com/aptospassport) | [Website](https://aptpp.com/)
 - Celer - [Twitter](https://twitter.com/CelerNetwork) | [Website](https://www.celer.network/)
 - Dialect - [Github](https://github.com/dialectlabs) | [Twitter](https://twitter.com/saydialect) | [Website](https://www.dialect.to/)
 - Hippo Labs - [Github](https://github.com/hippospace) | [Twitter](https://twitter.com/hippolabs__) | [Website](https://hippo.space/)
 - LayerZero - [Github](https://github.com/LayerZero-Labs/LayerZero-Aptos-Contract) | [Twitter](https://twitter.com/layerzero_labs) | [Website](https://layerzero.network/)
 - Notifi - [Github](https://github.com/notifi-network) | [Twitter](https://twitter.com/NotifiNetwork) | [Website](https://notifi.network/)
+- SonarWatch - [Github](https://github.com/sonarwatch) | [Twitter](https://twitter.com/Sonarwatch) | [Website](https://aptos.sonar.watch/)
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 
 ## Wallets
@@ -75,6 +85,8 @@ A collection of live projects within the Aptos ecosystem.
 - Rise Wallet - [Twitter](https://twitter.com/rise_wallet) | [Website](https://risewallet.io/)
 - Trust Wallet - [Github](https://github.com/trustwallet) | [Twitter](https://twitter.com/trustwallet) | [Website](https://trustwallet.com/)
 
+## Launchpad
+- Proton Sale - [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)
 ---
 
 

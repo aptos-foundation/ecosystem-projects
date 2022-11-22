@@ -67,6 +67,7 @@ A collection of live projects within the Aptos ecosystem.
 - Notifi - [Github](https://github.com/notifi-network) | [Twitter](https://twitter.com/NotifiNetwork) | [Website](https://notifi.network/)
 - SonarWatch - [Github](https://github.com/sonarwatch) | [Twitter](https://twitter.com/Sonarwatch) | [Website](https://aptos.sonar.watch/)
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
+- AptStats - [Github](https://github.com/aptstats) | [Twitter](https://twitter.com/aptstats) | [Website](https://aptstats.xyz/)
 
 ## Wallets
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)

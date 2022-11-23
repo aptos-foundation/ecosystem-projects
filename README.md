@@ -37,7 +37,10 @@ A collection of live projects within the Aptos ecosystem.
 - Umi - [Github](https://github.com/umi-ag) | [Twitter](https://twitter.com/umi_protocol) | [Website](https://umi.ag)
 
 ## Infra
+- Chainbase - [Github](https://github.com/chainbase-labs) | [Twitter](https://twitter.com/ChainbaseOnline) | [Website](https://chainbase.online/)
 - Crust - [Github](https://github.com/crustio) | [Twitter](https://twitter.com/CrustNetwork) | [Website](https://crust.network/)
+- Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
+- NodeReal - [Github](https://github.com/node-real)| [Twitter](https://twitter.com/Nodereal_io) | [Website](https://nodereal.io/)
 - Pyth Network - [Github](https://github.com/pyth-network) | [Twitter](https://twitter.com/PythNetwork) | [Website](https://pyth.network/)
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 - Wormhole - [Github](https://github.com/wormhole-foundation/wormhole) | [Twitter](https://twitter.com/wormholecrypto) | [Website](https://wormhole.com/)
@@ -52,6 +55,7 @@ A collection of live projects within the Aptos ecosystem.
 ## NFT Tooling
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
 - Koizumi - [Github](https://github.com/KoizumiAPT) | [Twitter](https://twitter.com/KoizumiAPT) | [Website](https://agg.koizumi.io)
+- Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
 - Souffl3 - [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 - Topaz - [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
 
@@ -62,6 +66,7 @@ A collection of live projects within the Aptos ecosystem.
 ## Tooling
 - Aptos Name Service - [Twitter](https://twitter.com/aptosnames)
 - AptosFaucet - [Github](https://github.com/tolgaand/aptosfaucet) | [Website](https://www.aptosfaucet.com)
+- AptosPassport - [Github](https://github.com/aptospassport) | [Twitter](https://twitter.com/aptospassport) | [Website](https://aptpp.com/)
 - Celer - [Twitter](https://twitter.com/CelerNetwork) | [Website](https://www.celer.network/)
 - Dialect - [Github](https://github.com/dialectlabs) | [Twitter](https://twitter.com/saydialect) | [Website](https://www.dialect.to/)
 - Hippo Labs - [Github](https://github.com/hippospace) | [Twitter](https://twitter.com/hippolabs__) | [Website](https://hippo.space/)
@@ -83,6 +88,8 @@ A collection of live projects within the Aptos ecosystem.
 - Rise Wallet - [Twitter](https://twitter.com/rise_wallet) | [Website](https://risewallet.io/)
 - Trust Wallet - [Github](https://github.com/trustwallet) | [Twitter](https://twitter.com/trustwallet) | [Website](https://trustwallet.com/)
 
+## Launchpad
+- Proton Sale - [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)
 ---
 
 

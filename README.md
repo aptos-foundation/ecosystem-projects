@@ -28,13 +28,13 @@ A collection of live projects within the Aptos ecosystem.
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
 - Ditto - [Twitter](https://twitter.com/Ditto_Finance) | [Website](https://www.dittofinance.io/)
 - HoustonSwap - [Twitter](https://twitter.com/Houston_swap) | [Website](https://houstonswap.io/)
+- Koizumi - [Github](https://github.com/KoizumiAPT) | [Twitter](https://twitter.com/KoizumiAPT) | [Website](https://koizumi.io)
 - PancakeSwap - [Github](https://github.com/pancakeswap/) | [Twitter](https://twitter.com/pancakeswap) | [Website](https://aptos.pancakeswap.finance/swap)
 - Pontem Network - [Github](https://github.com/pontem-network) | [Twitter](https://twitter.com/PontemNetwork) | [Website](https://pontem.network/)
 - Superposition - [Twitter](https://twitter.com/SuperpositionFi) | [Website](https://www.superposition.finance/)
 - Thala Labs - [Twitter](https://twitter.com/ThalaLabs) | [Website](https://www.thalalabs.xyz/)
 - Tortuga - [Twitter](https://twitter.com/TortugaFinance) | [Website](https://tortuga.finance/)
 - Umi - [Github](https://github.com/umi-ag) | [Twitter](https://twitter.com/umi_protocol) | [Website](https://umi.ag)
-- Koizumi - [Github](https://github.com/KoizumiAPT) | [Twitter](https://twitter.com/KoizumiAPT) | [Website](https://koizumi.io)
 
 ## Infra
 - Crust - [Github](https://github.com/crustio) | [Twitter](https://twitter.com/CrustNetwork) | [Website](https://crust.network/)
@@ -51,6 +51,7 @@ A collection of live projects within the Aptos ecosystem.
 
 ## NFT Tooling
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
+- Koizumi - [Github](https://github.com/KoizumiAPT) | [Twitter](https://twitter.com/KoizumiAPT) | [Website](https://agg.koizumi.io)
 - Souffl3 - [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 - Topaz - [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
 

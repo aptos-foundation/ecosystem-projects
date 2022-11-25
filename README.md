@@ -60,6 +60,7 @@ A collection of live projects within the Aptos ecosystem.
 ## Tooling
 - Aptos Name Service - [Twitter](https://twitter.com/aptosnames)
 - AptosFaucet - [Github](https://github.com/tolgaand/aptosfaucet) | [Website](https://www.aptosfaucet.com)
+- AptStats - [Github](https://github.com/aptstats) | [Twitter](https://twitter.com/aptstats) | [Website](https://aptstats.xyz/)
 - Celer - [Twitter](https://twitter.com/CelerNetwork) | [Website](https://www.celer.network/)
 - Dialect - [Github](https://github.com/dialectlabs) | [Twitter](https://twitter.com/saydialect) | [Website](https://www.dialect.to/)
 - Hippo Labs - [Github](https://github.com/hippospace) | [Twitter](https://twitter.com/hippolabs__) | [Website](https://hippo.space/)
@@ -67,7 +68,6 @@ A collection of live projects within the Aptos ecosystem.
 - Notifi - [Github](https://github.com/notifi-network) | [Twitter](https://twitter.com/NotifiNetwork) | [Website](https://notifi.network/)
 - SonarWatch - [Github](https://github.com/sonarwatch) | [Twitter](https://twitter.com/Sonarwatch) | [Website](https://aptos.sonar.watch/)
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
-- AptStats - [Github](https://github.com/aptstats) | [Twitter](https://twitter.com/aptstats) | [Website](https://aptstats.xyz/)
 
 ## Wallets
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)

@@ -27,6 +27,7 @@ A collection of live projects within the Aptos ecosystem.
 - AUX - [Github](https://github.com/aux-exchange) | [Twitter](https://twitter.com/AuxExchange) | [Website](https://aux.exchange/)
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
 - Ditto - [Twitter](https://twitter.com/Ditto_Finance) | [Website](https://www.dittofinance.io/)
+- Econia - [GitHub](https://github.com/econia-labs/econia) | [Twitter](https://twitter.com/EconiaLabs) | [Website](https://econia.dev)
 - HoustonSwap - [Twitter](https://twitter.com/Houston_swap) | [Website](https://houstonswap.io/)
 - Kana Labs - [Twitter](https://twitter.com/kanalabs) | [Website](https://app.kanalabs.io/)
 - PancakeSwap - [Github](https://github.com/pancakeswap/) | [Twitter](https://twitter.com/pancakeswap) | [Website](https://aptos.pancakeswap.finance/swap)

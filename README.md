@@ -91,6 +91,9 @@ A collection of live projects within the Aptos ecosystem.
 
 ## Launchpad
 - Proton Sale - [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)
+
+## Meme Token
+DogLaika Coin - [Github](https://github.com/Doglaikacoin/) | [Twitter](https://twitter.com/doglaikacoin) | [Website](https://doglaikacoin.xyz)
 ---
 
 

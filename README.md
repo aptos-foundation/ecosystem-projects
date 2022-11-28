@@ -22,6 +22,7 @@ A collection of live projects within the Aptos ecosystem.
 
 ## DeFi
 - AnimeSwap - [Github](https://reactjs.org/) | [Twitter](https://twitter.com/animeswap_org)
+- Aptools - [Twitter](https://twitter.com/aptools_) | [Website](https://aptools.xyz/)
 - Argo - [Twitter](https://twitter.com/ArgoUSD) | [Website](https://argo.fi/)
 - Aries Markets - [Twitter](https://twitter.com/AriesMarkets) | [Website](https://ariesmarkets.xyz/)
 - AUX - [Github](https://github.com/aux-exchange) | [Twitter](https://twitter.com/AuxExchange) | [Website](https://aux.exchange/)
@@ -65,6 +66,7 @@ A collection of live projects within the Aptos ecosystem.
 - Thala Labs - [Twitter](https://twitter.com/ThalaLabs) | [Website](https://www.thalalabs.xyz/)
     
 ## Tooling
+- Aptools - [Twitter](https://twitter.com/aptools_) | [Website](https://aptools.xyz/)
 - Aptos Name Service - [Twitter](https://twitter.com/aptosnames)
 - AptosFaucet - [Github](https://github.com/tolgaand/aptosfaucet) | [Website](https://www.aptosfaucet.com)
 - AptosPassport - [Github](https://github.com/aptospassport) | [Twitter](https://twitter.com/aptospassport) | [Website](https://aptpp.com/)

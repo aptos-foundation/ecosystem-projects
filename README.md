@@ -68,7 +68,7 @@ A collection of live projects within the Aptos ecosystem.
     
 ## Tooling
 - Aptools - [Twitter](https://twitter.com/aptools_) | [Website](https://aptools.xyz/)
-- Aptos Name Service - [Twitter](https://twitter.com/aptosnames)
+- Aptos Name Service - [Twitter](https://twitter.com/aptosnames) | [Website](https://www.aptosnames.com/)
 - AptosFaucet - [Github](https://github.com/tolgaand/aptosfaucet) | [Website](https://www.aptosfaucet.com)
 - AptosPassport - [Github](https://github.com/aptospassport) | [Twitter](https://twitter.com/aptospassport) | [Website](https://aptpp.com/)
 - AptStats - [Github](https://github.com/aptstats) | [Twitter](https://twitter.com/aptstats) | [Website](https://aptstats.xyz/)

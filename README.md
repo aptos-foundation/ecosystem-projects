@@ -61,6 +61,7 @@ A collection of live projects within the Aptos ecosystem.
 - Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
 - Souffl3 - [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 - Topaz - [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
+- ZombieLabs Aptos Folio - [GitHub](https://github.com/AptosZombies/Aptos-Folio) | [Linktr.ee](https://linktr.ee/aptoszombies) | [Twitter](https://twitter.com/aptos_zombies) | [Website](https://aptos-zombies.gitbook.io/aptos-zombies/)
 
 ## Stablecoins
 - Argo - [Twitter](https://twitter.com/ArgoUSD) | [Website](https://argo.fi/)

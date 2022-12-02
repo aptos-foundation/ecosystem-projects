@@ -31,6 +31,7 @@ A collection of live projects within the Aptos ecosystem.
 - Econia - [GitHub](https://github.com/econia-labs/econia) | [Twitter](https://twitter.com/EconiaLabs) | [Website](https://econia.dev)
 - HoustonSwap - [Twitter](https://twitter.com/Houston_swap) | [Website](https://houstonswap.io/)
 - Kana Labs - [Twitter](https://twitter.com/kanalabs) | [Website](https://app.kanalabs.io/)
+- Meson - [Github](https://github.com/MesonFi) | [Twitter](https://twitter.com/mesonfi) | [Website](https://meson.fi/)
 - PancakeSwap - [Github](https://github.com/pancakeswap/) | [Twitter](https://twitter.com/pancakeswap) | [Website](https://aptos.pancakeswap.finance/swap)
 - Pontem Network - [Github](https://github.com/pontem-network) | [Twitter](https://twitter.com/PontemNetwork) | [Website](https://pontem.network/)
 - Snotra - [Github](https://github.com/SnotraTech) | [Twitter](https://twitter.com/SnotraQ) | [Website](https://snotra.tech)

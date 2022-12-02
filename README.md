@@ -21,7 +21,7 @@ A collection of live projects within the Aptos ecosystem.
 # Project Categories
 
 ## DeFi
-- AnimeSwap - [Github](https://reactjs.org/) | [Twitter](https://twitter.com/animeswap_org)
+- AnimeSwap - [Github](http://github.com/AnimeSwap) | [Twitter](https://twitter.com/animeswap_org) | [Website](https://app.animeswap.org/)
 - Aptools - [Twitter](https://twitter.com/aptools_) | [Website](https://aptools.xyz/)
 - Argo - [Twitter](https://twitter.com/ArgoUSD) | [Website](https://argo.fi/)
 - Aries Markets - [Twitter](https://twitter.com/AriesMarkets) | [Website](https://ariesmarkets.xyz/)

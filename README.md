@@ -95,6 +95,7 @@ A collection of live projects within the Aptos ecosystem.
 
 ## Launchpad
 - Proton Sale - [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)
+- Aptoslaunch - [Github](https://github.com/0xmodule/AptosLaunch) | [Twitter](https://twitter.com/Aptoslaunch.io) | [Website](https://aptoslaunch.io/)
 ---
 
 

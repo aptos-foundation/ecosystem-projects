@@ -34,6 +34,7 @@ A collection of live projects within the Aptos ecosystem.
 - PancakeSwap - [Github](https://github.com/pancakeswap/) | [Twitter](https://twitter.com/pancakeswap) | [Website](https://aptos.pancakeswap.finance/swap)
 - Pontem Network - [Github](https://github.com/pontem-network) | [Twitter](https://twitter.com/PontemNetwork) | [Website](https://pontem.network/)
 - Snotra - [Github](https://github.com/SnotraTech) | [Twitter](https://twitter.com/SnotraQ) | [Website](https://snotra.tech)
+- Starswap - [Github](https://github.com/Elements-Studio/starswap-core-aptos) | [Twitter](https://twitter.com/StarswapEN) | [Website](https://starswap.xyz/)
 - Superposition - [Twitter](https://twitter.com/SuperpositionFi) | [Website](https://www.superposition.finance/)
 - Thala Labs - [Twitter](https://twitter.com/ThalaLabs) | [Website](https://www.thalalabs.xyz/)
 - Tortuga - [Twitter](https://twitter.com/TortugaFinance) | [Website](https://tortuga.finance/)

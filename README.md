@@ -55,12 +55,14 @@ A collection of live projects within the Aptos ecosystem.
 - Mojito Markets - [Twitter](https://twitter.com/MojitoMarkets) | [Website](https://mojitomarkets.exchange/)
 - Souffl3 - [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 - Topaz - [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
+- UniBazaar - [Website](https://ubz.aptpp.com/)
 
 ## NFT Tooling
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
 - Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
 - Souffl3 - [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 - Topaz - [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
+- UniBazaar - [Website](https://ubz.aptpp.com/)
 
 ## Stablecoins
 - Argo - [Twitter](https://twitter.com/ArgoUSD) | [Website](https://argo.fi/)

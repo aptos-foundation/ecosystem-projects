@@ -31,6 +31,7 @@ A collection of live projects within the Aptos ecosystem.
 - Econia - [GitHub](https://github.com/econia-labs/econia) | [Twitter](https://twitter.com/EconiaLabs) | [Website](https://econia.dev)
 - HoustonSwap - [Twitter](https://twitter.com/Houston_swap) | [Website](https://houstonswap.io/)
 - Kana Labs - [Twitter](https://twitter.com/kanalabs) | [Website](https://app.kanalabs.io/)
+- Koizumi - [Github](https://github.com/KoizumiAPT) | [Twitter](https://twitter.com/KoizumiAPT) | [Website](https://koizumi.io)
 - PancakeSwap - [Github](https://github.com/pancakeswap/) | [Twitter](https://twitter.com/pancakeswap) | [Website](https://aptos.pancakeswap.finance/swap)
 - Pontem Network - [Github](https://github.com/pontem-network) | [Twitter](https://twitter.com/PontemNetwork) | [Website](https://pontem.network/)
 - Snotra - [Github](https://github.com/SnotraTech) | [Twitter](https://twitter.com/SnotraQ) | [Website](https://snotra.tech)
@@ -59,6 +60,7 @@ A collection of live projects within the Aptos ecosystem.
 
 ## NFT Tooling
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
+- Koizumi - [Github](https://github.com/KoizumiAPT) | [Twitter](https://twitter.com/KoizumiAPT) | [Website](https://agg.koizumi.io)
 - Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
 - Souffl3 - [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 - Topaz - [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)

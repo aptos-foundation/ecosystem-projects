@@ -30,6 +30,7 @@ A collection of live projects within the Aptos ecosystem.
 - Ditto - [Twitter](https://twitter.com/Ditto_Finance) | [Website](https://www.dittofinance.io/)
 - Econia - [GitHub](https://github.com/econia-labs/econia) | [Twitter](https://twitter.com/EconiaLabs) | [Website](https://econia.dev)
 - HoustonSwap - [Twitter](https://twitter.com/Houston_swap) | [Website](https://houstonswap.io/)
+- Jujube Finance - [Github](https://github.com/jujubefinance) | [Twitter](https://twitter.com/JujubeFinance) | [Website](https://www.jujube.finance)
 - Kana Labs - [Twitter](https://twitter.com/kanalabs) | [Website](https://app.kanalabs.io/)
 - PancakeSwap - [Github](https://github.com/pancakeswap/) | [Twitter](https://twitter.com/pancakeswap) | [Website](https://aptos.pancakeswap.finance/swap)
 - Pontem Network - [Github](https://github.com/pontem-network) | [Twitter](https://twitter.com/PontemNetwork) | [Website](https://pontem.network/)
@@ -38,7 +39,6 @@ A collection of live projects within the Aptos ecosystem.
 - Thala Labs - [Twitter](https://twitter.com/ThalaLabs) | [Website](https://www.thalalabs.xyz/)
 - Tortuga - [Twitter](https://twitter.com/TortugaFinance) | [Website](https://tortuga.finance/)
 - Umi - [Github](https://github.com/umi-ag) | [Twitter](https://twitter.com/umi_protocol) | [Website](https://umi.ag)
-- Jujube Finance - [Github](https://github.com/jujubefinance) | [Twitter](https://twitter.com/JujubeFinance) | [Website](https://www.jujube.finance)
 
 ## Infra
 - BlockEden.xyz - [Github](https://github.com/blockedenhq) | [Twitter](https://twitter.com/BlockEdenHQ) | [Website](https://blockeden.xyz/)

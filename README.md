@@ -48,6 +48,7 @@ A collection of live projects within the Aptos ecosystem.
 - Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
 - NodeReal - [Github](https://github.com/node-real)| [Twitter](https://twitter.com/Nodereal_io) | [Website](https://nodereal.io/)
 - Pyth Network - [Github](https://github.com/pyth-network) | [Twitter](https://twitter.com/PythNetwork) | [Website](https://pyth.network/)
+- Sentio XYZ [Github](https://github.com/sentioxyz) | [Twitter](https://twitter.com/sentioxyz) | [Website](https://sentio.xyz/)
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 - Wormhole - [Github](https://github.com/wormhole-foundation/wormhole) | [Twitter](https://twitter.com/wormholecrypto) | [Website](https://wormhole.com/)
 - ZettaBlock - [Twitter](https://twitter.com/ZettaBlockHQ) | [Website](https://www.zettablock.com/)
@@ -82,6 +83,7 @@ A collection of live projects within the Aptos ecosystem.
 - Hippo Labs - [Github](https://github.com/hippospace) | [Twitter](https://twitter.com/hippolabs__) | [Website](https://hippo.space/)
 - LayerZero - [Github](https://github.com/LayerZero-Labs/LayerZero-Aptos-Contract) | [Twitter](https://twitter.com/layerzero_labs) | [Website](https://layerzero.network/)
 - Notifi - [Github](https://github.com/notifi-network) | [Twitter](https://twitter.com/NotifiNetwork) | [Website](https://notifi.network/)
+- Sentio XYZ [Github](https://github.com/sentioxyz) | [Twitter](https://twitter.com/sentioxyz) | [Website](https://sentio.xyz/)
 - SonarWatch - [Github](https://github.com/sonarwatch) | [Twitter](https://twitter.com/Sonarwatch) | [Website](https://aptos.sonar.watch/)
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 

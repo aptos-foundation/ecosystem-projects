@@ -30,6 +30,7 @@ A collection of live projects within the Aptos ecosystem.
 - Ditto - [Twitter](https://twitter.com/Ditto_Finance) | [Website](https://www.dittofinance.io/)
 - Econia - [GitHub](https://github.com/econia-labs/econia) | [Twitter](https://twitter.com/EconiaLabs) | [Website](https://econia.dev)
 - HoustonSwap - [Twitter](https://twitter.com/Houston_swap) | [Website](https://houstonswap.io/)
+- Jujube Finance - [Github](https://github.com/jujubefinance) | [Twitter](https://twitter.com/JujubeFinance) | [Website](https://www.jujube.finance)
 - Kana Labs - [Twitter](https://twitter.com/kanalabs) | [Website](https://app.kanalabs.io/)
 - Koizumi - [Github](https://github.com/KoizumiAPT) | [Twitter](https://twitter.com/KoizumiAPT) | [Website](https://koizumi.io)
 - PancakeSwap - [Github](https://github.com/pancakeswap/) | [Twitter](https://twitter.com/pancakeswap) | [Website](https://aptos.pancakeswap.finance/swap)

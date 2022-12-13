@@ -42,6 +42,7 @@ A collection of live projects within the Aptos ecosystem.
 - Umi - [Github](https://github.com/umi-ag) | [Twitter](https://twitter.com/umi_protocol) | [Website](https://umi.ag)
 
 ## Infra
+- Blast API by Bware Labs - [Github](https://github.com/bwarelabs) | [Twitter](https://twitter.com/blastapi) | [Website](https://blastapi.io/)
 - BlockEden.xyz - [Github](https://github.com/blockedenhq) | [Twitter](https://twitter.com/BlockEdenHQ) | [Website](https://blockeden.xyz/)
 - Chainbase - [Github](https://github.com/chainbase-labs) | [Twitter](https://twitter.com/ChainbaseOnline) | [Website](https://chainbase.online/)
 - Crust - [Github](https://github.com/crustio) | [Twitter](https://twitter.com/CrustNetwork) | [Website](https://crust.network/)

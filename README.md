@@ -62,6 +62,7 @@ A collection of live projects within the Aptos ecosystem.
 ## Marketplace
 - BlueMove - [Twitter](https://twitter.com/BlueMove_OA) | [Website](https://bluemove.net/)
 - Mojito Markets - [Twitter](https://twitter.com/MojitoMarkets) | [Website](https://mojitomarkets.exchange/)
+- Nodegen - [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
 - Souffl3 - [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 - Topaz - [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
 - UniBazaar - [Website](https://ubz.aptpp.com/)
@@ -109,6 +110,7 @@ A collection of live projects within the Aptos ecosystem.
 
 ## Launchpad
 - Meeiro - [Twitter](https://twitter.com/Meeiro_xyz) | [Website](https://meeiro.xyz/)
+- Nodegen - [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
 - Proton Sale - [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)
 ---
 

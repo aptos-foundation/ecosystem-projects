@@ -34,6 +34,7 @@ A collection of live projects within the Aptos ecosystem.
 - Kana Labs - [Twitter](https://twitter.com/kanalabs) | [Website](https://app.kanalabs.io/)
 - Koizumi - [Github](https://github.com/KoizumiAPT) | [Twitter](https://twitter.com/KoizumiAPT) | [Website](https://koizumi.io)
 - PancakeSwap - [Github](https://github.com/pancakeswap/) | [Twitter](https://twitter.com/pancakeswap) | [Website](https://aptos.pancakeswap.finance/swap)
+- Patronus - [Github](https://github.com/patronusfi) | [Twitter](https://twitter.com/Patronus_Fi) | [Website](https://patronus.fi/)
 - Pontem Network - [Github](https://github.com/pontem-network) | [Twitter](https://twitter.com/PontemNetwork) | [Website](https://pontem.network/)
 - Snotra - [Github](https://github.com/SnotraTech) | [Twitter](https://twitter.com/SnotraQ) | [Website](https://snotra.tech)
 - Starswap - [Github](https://github.com/Elements-Studio/starswap-core-aptos) | [Twitter](https://twitter.com/StarswapEN) | [Website](https://starswap.xyz/)
@@ -41,6 +42,7 @@ A collection of live projects within the Aptos ecosystem.
 - Thala Labs - [Twitter](https://twitter.com/ThalaLabs) | [Website](https://www.thalalabs.xyz/)
 - Tortuga - [Twitter](https://twitter.com/TortugaFinance) | [Website](https://tortuga.finance/)
 - Umi - [Github](https://github.com/umi-ag) | [Twitter](https://twitter.com/umi_protocol) | [Website](https://umi.ag)
+
 
 ## Infra
 - Blast API by Bware Labs - [Github](https://github.com/bwarelabs) | [Twitter](https://twitter.com/blastapi) | [Website](https://blastapi.io/)

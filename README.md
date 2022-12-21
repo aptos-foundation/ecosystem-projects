@@ -24,8 +24,8 @@ A collection of live projects within the Aptos ecosystem.
 # Project Categories
 
 ## Gaming
-- METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
 - Aptos Flip - [Twitter](https://twitter.com/aptosflip) | [Website](https://aptflip.com)
+- METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
 
 ## DeFi
 - Abel Finance - [Github](https://github.com/abelfinance) | [Twitter](https://twitter.com/abelfinance) | [Website](https://abelfinance.xyz/)

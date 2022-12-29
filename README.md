@@ -117,6 +117,7 @@ A collection of live projects within the Aptos ecosystem.
 
 ## Wallets
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
+- EVO Wallet - [Twitter](https://twitter.com/EvoWalletAptos) | [Website](https://evowallet.app/) 
 - Fewcha - [Github](https://github.com/fewcha-wallet) | [Twitter](https://twitter.com/fewchawallet) | [Website](https://fewcha.app/)
 - Fletch - [Website](https://fletchwallet.io/)
 - Hive Wallet - [Twitter](https://twitter.com/hivewithme) | [Website](https://www.hivewithme.xyz/)

@@ -61,6 +61,7 @@ A collection of live projects within the Aptos ecosystem.
 - BlockEden - [Github](https://github.com/blockedenhq) | [Twitter](https://twitter.com/BlockEdenHQ) | [Website](https://blockeden.xyz/)
 - BlockPI Network - [Github](https://github.com/BlockPILabs) | [Twitter](https://twitter.com/RealBlockPI) | [Website](https://blockpi.io/)
 - Chainbase - [Github](https://github.com/chainbase-labs) | [Twitter](https://twitter.com/ChainbaseOnline) | [Website](https://chainbase.online/)
+- Chainstack - [Github](https://github.com/chainstack) | [Twitter](https://twitter.com/ChainstackHQ) | [Website](https://chainstack.com/build-better-with-aptos/)
 - Crust - [Github](https://github.com/crustio) | [Twitter](https://twitter.com/CrustNetwork) | [Website](https://crust.network/)
 - Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
 - Moonpay - [Twitter](https://twitter.com/moonpay) | [Website](https://www.moonpay.com/)

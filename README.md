@@ -55,6 +55,7 @@ A collection of live projects within the Aptos ecosystem.
 - Tsunami Finance - [Twitter](https://twitter.com/TsunamiFinance_) | [Website](https://tsunami.finance/)
 - Umi - [Github](https://github.com/umi-ag) | [Twitter](https://twitter.com/umi_protocol) | [Website](https://umi.ag)
 - Aptin Labs - [Github](https://github.com/AptinLabs) | [Twitter](https://twitter.com/aptinlabs) | [Website](https://aptin.io)
+- Wing Finance - [Twitter](https://twitter.com/Wing_Finance) | [Website](https://flash.wing.finance/aptos)
 
 ## Infra
 - Blast API by Bware Labs - [Github](https://github.com/bwarelabs) | [Twitter](https://twitter.com/blastapi) | [Website](https://blastapi.io/)

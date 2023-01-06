@@ -7,7 +7,6 @@
 A collection of live projects within the Aptos ecosystem.
 
 - [Project Categories](#project-categories)
-    - [GameFi](#gamefi)
     - [Gaming](#gaming)
     - [DeFi](#defi)
     - [Infra](#infra)
@@ -24,12 +23,10 @@ A collection of live projects within the Aptos ecosystem.
 
 # Project Categories
 
-## GameFi
-- Super Athletes Club - [Twitter](https://twitter.com/sacnft_official
-) | [Website](https://sac-nft.com/)
-
 ## Gaming
 - METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
+- Super Athletes Club - [Twitter](https://twitter.com/sacnft_official
+) | [Website](https://sac-nft.com/)
 
 ## DeFi
 - Abel Finance - [Github](https://github.com/abelfinance) | [Twitter](https://twitter.com/abelfinance) | [Website](https://abelfinance.xyz/)

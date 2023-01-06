@@ -60,6 +60,7 @@ A collection of live projects within the Aptos ecosystem.
 - Blast API by Bware Labs - [Github](https://github.com/bwarelabs) | [Twitter](https://twitter.com/blastapi) | [Website](https://blastapi.io/)
 - BlockEden - [Github](https://github.com/blockedenhq) | [Twitter](https://twitter.com/BlockEdenHQ) | [Website](https://blockeden.xyz/)
 - BlockPI Network - [Github](https://github.com/BlockPILabs) | [Twitter](https://twitter.com/RealBlockPI) | [Website](https://blockpi.io/)
+- Byzantion - [Twitter](https://twitter.com/byzantion_xyz) | [Website](https://www.byzantion.xyz/)
 - Chainbase - [Github](https://github.com/chainbase-labs) | [Twitter](https://twitter.com/ChainbaseOnline) | [Website](https://chainbase.online/)
 - Crust - [Github](https://github.com/crustio) | [Twitter](https://twitter.com/CrustNetwork) | [Website](https://crust.network/)
 - Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
@@ -82,6 +83,7 @@ A collection of live projects within the Aptos ecosystem.
 
 ## NFT Tooling
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
+- Byzantion - [Twitter](https://twitter.com/byzantion_xyz) | [Website](https://www.byzantion.xyz/)
 - Koizumi - [Github](https://github.com/KoizumiAPT) | [Twitter](https://twitter.com/KoizumiAPT) | [Website](https://agg.koizumi.io)
 - Livepeer - [Github](https://github.com/livepeer) | [Twitter](https://twitter.com/Livepeer) | [Website](https://livepeer.org/)
 - Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)

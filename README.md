@@ -25,6 +25,8 @@ A collection of live projects within the Aptos ecosystem.
 
 ## Gaming
 - METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
+- Super Athletes Club - [Twitter](https://twitter.com/sacnft_official
+) | [Website](https://sac-nft.com/)
 
 ## DeFi
 - Abel Finance - [Github](https://github.com/abelfinance) | [Twitter](https://twitter.com/abelfinance) | [Website](https://abelfinance.xyz/)

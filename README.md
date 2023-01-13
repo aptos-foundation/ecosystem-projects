@@ -137,6 +137,7 @@ A collection of live projects within the Aptos ecosystem.
 - Rise Wallet - [Twitter](https://twitter.com/rise_wallet) | [Website](https://risewallet.io/)
 - StarMask - [Github](https://github.com/starcoinorg/starmask-extension) | [Website](https://westar.io/project/#starmask)
 - Trust Wallet - [Github](https://github.com/trustwallet) | [Twitter](https://twitter.com/trustwallet) | [Website](https://trustwallet.com/)
+- Spacecy Wallet - [Github](https://github.com/SpacecyWallet) | [Twitter](https://twitter.com/SpacecyWallet) | [Website](https://spacecywallet.com/)
 
 ## Launchpads
 - Meeiro - [Twitter](https://twitter.com/Meeiro_xyz) | [Website](https://meeiro.xyz/)

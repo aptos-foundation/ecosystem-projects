@@ -25,6 +25,7 @@ A collection of live projects within the Aptos ecosystem.
 
 ## Gaming
 - Aptos Flip - [Twitter](https://twitter.com/aptosflip) | [Website](https://aptflip.com)
+- Aptos Wolf Game - [Github](https://github.com/aptoswolfgame) | [Twitter](https://twitter.com/wolfgameaptos) | [Website](https://wolfgameaptos.xyz/)
 - METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
 - AptosReels [DEVNET] - [Twitter](https://twitter.com/APToons_) | [https://hello-world-aptoons.vercel.app/)
 

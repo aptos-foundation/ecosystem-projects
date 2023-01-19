@@ -9,7 +9,7 @@ A collection of live projects within the Aptos ecosystem.
 - [Project Categories](#project-categories)
     - [Gaming](#gaming)
     - [DeFi](#defi)
-    - [Infra](#infra)
+    - [Infrastructure](#infrastructure)
     - [Marketplace](#marketplace)
     - [NFT Tooling](#nft-tooling)
     - [Stablecoins](#stablecoins)
@@ -26,7 +26,7 @@ A collection of live projects within the Aptos ecosystem.
 ## Gaming
 - Aptos Flip - [Twitter](https://twitter.com/aptosflip) | [Website](https://aptflip.com)
 - METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
-- AptosReels [DEVNET] - [Twitter](https://twitter.com/APToons_) | [https://hello-world-aptoons.vercel.app/)
+- AptosReels [DEVNET] - [Twitter](https://twitter.com/APToons_) | [Website](https://hello-world-aptoons.vercel.app/)
 
 ## DeFi
 - Abel Finance - [Github](https://github.com/abelfinance) | [Twitter](https://twitter.com/abelfinance) | [Website](https://abelfinance.xyz/)
@@ -60,7 +60,7 @@ A collection of live projects within the Aptos ecosystem.
 - Aptin Labs - [Github](https://github.com/AptinLabs) | [Twitter](https://twitter.com/aptinlabs) | [Website](https://aptin.io)
 - Wing Finance - [Twitter](https://twitter.com/Wing_Finance) | [Website](https://flash.wing.finance/aptos)
 
-## Infra
+## Infrastructure
 - Blast API by Bware Labs - [Github](https://github.com/bwarelabs) | [Twitter](https://twitter.com/blastapi) | [Website](https://blastapi.io/)
 - BlockEden - [Github](https://github.com/blockedenhq) | [Twitter](https://twitter.com/BlockEdenHQ) | [Website](https://blockeden.xyz/)
 - BlockPI Network - [Github](https://github.com/BlockPILabs) | [Twitter](https://twitter.com/RealBlockPI) | [Website](https://blockpi.io/)

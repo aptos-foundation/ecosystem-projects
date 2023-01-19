@@ -67,6 +67,7 @@ A collection of live projects within the Aptos ecosystem.
 - Byzantion - [Twitter](https://twitter.com/byzantion_xyz) | [Website](https://www.byzantion.xyz/)
 - Chainbase - [Github](https://github.com/chainbase-labs) | [Twitter](https://twitter.com/ChainbaseOnline) | [Website](https://chainbase.online/)
 - Crust - [Github](https://github.com/crustio) | [Twitter](https://twitter.com/CrustNetwork) | [Website](https://crust.network/)
+- Lemur Lounge - [Twitter](https://twitter.com/LemurLoungeNFT) | [Website](https://www.thelemurlounge.com/)
 - Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
 - Moonpay - [Twitter](https://twitter.com/moonpay) | [Website](https://www.moonpay.com/)
 - NodeReal - [Github](https://github.com/node-real) | [Twitter](https://twitter.com/Nodereal_io) | [Website](https://nodereal.io/)
@@ -79,7 +80,6 @@ A collection of live projects within the Aptos ecosystem.
 ## Marketplaces
 - BlueMove - [Twitter](https://twitter.com/BlueMove_OA) | [Website](https://bluemove.net/)
 - ForartSwap - [Twitter](https://twitter.com/forart_ai) | [Website](https://forart.ai)
-- Lemur Lounge - [Twitter](https://twitter.com/LemurLoungeNFT) | [Website]((https://www.thelemurlounge.com/)
 - Mojito Markets - [Twitter](https://twitter.com/MojitoMarkets) | [Website](https://mojitomarkets.exchange/)
 - Nodegen - [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
 - Nutrios - [Twitter](https://twitter.com/nutriosProject) | [Website](https://www.nutrios.co/)

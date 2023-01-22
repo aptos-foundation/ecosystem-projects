@@ -92,6 +92,7 @@ A collection of live projects within the Aptos ecosystem.
 ## NFT Tooling
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
 - Byzantion - [Twitter](https://twitter.com/byzantion_xyz) | [Website](https://www.byzantion.xyz/)
+- CandyMachine - [Github](https://github.com/candymachineapt) | [Twitter](https://twitter.com/candymachineapp) | [Website](https://candymachine.app/)
 - Koizumi - [Github](https://github.com/KoizumiAPT) | [Twitter](https://twitter.com/KoizumiAPT) | [Website](https://agg.koizumi.io)
 - Livepeer - [Github](https://github.com/livepeer) | [Twitter](https://twitter.com/Livepeer) | [Website](https://livepeer.org/)
 - Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)

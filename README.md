@@ -65,10 +65,10 @@ A collection of live projects within the Aptos ecosystem.
 - Blast API by Bware Labs - [Github](https://github.com/bwarelabs) | [Twitter](https://twitter.com/blastapi) | [Website](https://blastapi.io/)
 - BlockEden - [Github](https://github.com/blockedenhq) | [Twitter](https://twitter.com/BlockEdenHQ) | [Website](https://blockeden.xyz/)
 - BlockPI Network - [Github](https://github.com/BlockPILabs) | [Twitter](https://twitter.com/RealBlockPI) | [Website](https://blockpi.io/)
-- Byzantion - [Twitter](https://twitter.com/byzantion_xyz) | [Website](https://www.byzantion.xyz/)
 - Chainbase - [Github](https://github.com/chainbase-labs) | [Twitter](https://twitter.com/ChainbaseOnline) | [Website](https://chainbase.online/)
 - Chainstack - [Github](https://github.com/chainstack) | [Twitter](https://twitter.com/ChainstackHQ) | [Website](https://chainstack.com/build-better-with-aptos/)
 - Crust - [Github](https://github.com/crustio) | [Twitter](https://twitter.com/CrustNetwork) | [Website](https://crust.network/)
+- Indexer - [Twitter](https://twitter.com/indexer_xyz) | [Website](https://indexer.xyz/)
 - Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
 - Moonpay - [Twitter](https://twitter.com/moonpay) | [Website](https://www.moonpay.com/)
 - NodeReal - [Github](https://github.com/node-real) | [Twitter](https://twitter.com/Nodereal_io) | [Website](https://nodereal.io/)
@@ -91,7 +91,7 @@ A collection of live projects within the Aptos ecosystem.
 
 ## NFT Tooling
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
-- Byzantion - [Twitter](https://twitter.com/byzantion_xyz) | [Website](https://www.byzantion.xyz/)
+- Indexer - [Twitter](https://twitter.com/indexer_xyz) | [Website](https://indexer.xyz/)
 - Koizumi - [Github](https://github.com/KoizumiAPT) | [Twitter](https://twitter.com/KoizumiAPT) | [Website](https://agg.koizumi.io)
 - Livepeer - [Github](https://github.com/livepeer) | [Twitter](https://twitter.com/Livepeer) | [Website](https://livepeer.org/)
 - Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)

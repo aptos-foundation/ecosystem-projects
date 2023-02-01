@@ -146,6 +146,7 @@ A collection of live projects within the Aptos ecosystem.
 - Meeiro - [Twitter](https://twitter.com/Meeiro_xyz) | [Website](https://meeiro.xyz/)
 - Nodegen - [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
 - Proton Sale - [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)
+- The People - [Github](https://github.com/ThePeopleAPT) | [Twitter](https://twitter.com/ThePeopleAPT) | [Website](https://thepeopleapt.xyz/)
 ---
 
 

@@ -25,6 +25,7 @@ A collection of live projects within the Aptos ecosystem.
 
 ## Gaming
 - Aptos Flip - [Twitter](https://twitter.com/aptosflip) | [Website](https://aptflip.com)
+- Drawshop Kingdom Reverse - [Twitter](https://twitter.com/DrawshopKingdom) | [Website](https://drawshop.io)
 - METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
 - AptosReels [DEVNET] - [Twitter](https://twitter.com/APToons_) | [https://hello-world-aptoons.vercel.app/)
 
@@ -66,6 +67,7 @@ A collection of live projects within the Aptos ecosystem.
 - BlockPI Network - [Github](https://github.com/BlockPILabs) | [Twitter](https://twitter.com/RealBlockPI) | [Website](https://blockpi.io/)
 - Byzantion - [Twitter](https://twitter.com/byzantion_xyz) | [Website](https://www.byzantion.xyz/)
 - Chainbase - [Github](https://github.com/chainbase-labs) | [Twitter](https://twitter.com/ChainbaseOnline) | [Website](https://chainbase.online/)
+- Chainstack - [Github](https://github.com/chainstack) | [Twitter](https://twitter.com/ChainstackHQ) | [Website](https://chainstack.com/build-better-with-aptos/)
 - Crust - [Github](https://github.com/crustio) | [Twitter](https://twitter.com/CrustNetwork) | [Website](https://crust.network/)
 - Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
 - Moonpay - [Twitter](https://twitter.com/moonpay) | [Website](https://www.moonpay.com/)
@@ -82,6 +84,7 @@ A collection of live projects within the Aptos ecosystem.
 - Mojito Markets - [Twitter](https://twitter.com/MojitoMarkets) | [Website](https://mojitomarkets.exchange/)
 - Nodegen - [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
 - Nutrios - [Twitter](https://twitter.com/nutriosProject) | [Website](https://www.nutrios.co/)
+- SeaShrine - [Twitter](https://twitter.com/SeaShrineNFT) | [Website](https://seashrine.io)
 - Souffl3 - [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 - Topaz - [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
 - UniBazaar - [Website](https://ubz.aptpp.com/)
@@ -92,6 +95,7 @@ A collection of live projects within the Aptos ecosystem.
 - Koizumi - [Github](https://github.com/KoizumiAPT) | [Twitter](https://twitter.com/KoizumiAPT) | [Website](https://agg.koizumi.io)
 - Livepeer - [Github](https://github.com/livepeer) | [Twitter](https://twitter.com/Livepeer) | [Website](https://livepeer.org/)
 - Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
+- SeaShrine - [Twitter](https://twitter.com/SeaShrineNFT) | [Website](https://seashrine.io)
 - Souffl3 - [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 - Topaz - [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
 - UniBazaar - [Website](https://ubz.aptpp.com/)

@@ -38,7 +38,7 @@ A collection of live projects within the Aptos ecosystem.
 - AUX - [Github](https://github.com/aux-exchange) | [Twitter](https://twitter.com/AuxExchange) | [Website](https://aux.exchange/)
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
 - Ditto - [Twitter](https://twitter.com/Ditto_Finance) | [Website](https://www.dittofinance.io/)
-- Econia - [GitHub](https://github.com/econia-labs/econia) | [Twitter](https://twitter.com/EconiaLabs) | [Website](https://econia.dev)
+- Econia - [GitHub](https://github.com/econia-labs/econia) | [Twitter](https://twitter.com/EconiaLabs) | [Website](https://econialabs.com)
 - Ferum - [Github](https://github.com/ferum-dex/) | [Twitter](https://twitter.com/ferumxyz) | [Website](https://www.ferum.xyz/)
 - Foil Labs - [Github]() | [Twitter](https://twitter.com/foil_labs) | [Website](https://foil.so/)
 - HoustonSwap - [Twitter](https://twitter.com/Houston_swap) | [Website](https://houstonswap.io/)
@@ -103,7 +103,7 @@ A collection of live projects within the Aptos ecosystem.
 ## Stablecoins
 - Argo - [Twitter](https://twitter.com/ArgoUSD) | [Website](https://argo.fi/)
 - Thala Labs - [Twitter](https://twitter.com/ThalaLabs) | [Website](https://www.thalalabs.xyz/)
-    
+
 ## Tooling
 - Aptools - [Twitter](https://twitter.com/aptools_) | [Website](https://aptools.xyz/)
 - Aptos Name Service - [Twitter](https://twitter.com/aptosnames) | [Website](https://www.aptosnames.com/)
@@ -128,7 +128,7 @@ A collection of live projects within the Aptos ecosystem.
 
 ## Wallets
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
-- EVO Wallet - [Twitter](https://twitter.com/EvoWalletAptos) | [Website](https://evowallet.app/) 
+- EVO Wallet - [Twitter](https://twitter.com/EvoWalletAptos) | [Website](https://evowallet.app/)
 - Fewcha - [Github](https://github.com/fewcha-wallet) | [Twitter](https://twitter.com/fewchawallet) | [Website](https://fewcha.app/)
 - Fletch - [Website](https://fletchwallet.io/)
 - Hive Wallet - [Twitter](https://twitter.com/hivewithme) | [Website](https://www.hivewithme.xyz/)

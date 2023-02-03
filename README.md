@@ -27,7 +27,7 @@ A collection of live projects within the Aptos ecosystem.
 - Aptos Flip - [Twitter](https://twitter.com/aptosflip) | [Website](https://aptflip.com)
 - Drawshop Kingdom Reverse - [Twitter](https://twitter.com/DrawshopKingdom) | [Website](https://drawshop.io)
 - METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
-- AptosReels [DEVNET] - [Twitter](https://twitter.com/APToons_) | [https://hello-world-aptoons.vercel.app/)
+- AptosReels - [Twitter](https://twitter.com/APToons_) | [Website](https://hello-world-aptoons.vercel.app/)
 
 ## DeFi
 - Abel Finance - [Github](https://github.com/abelfinance) | [Twitter](https://twitter.com/abelfinance) | [Website](https://abelfinance.xyz/)

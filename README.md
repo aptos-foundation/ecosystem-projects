@@ -10,7 +10,7 @@ A collection of live projects within the Aptos ecosystem.
     - [Gaming](#gaming)
     - [DeFi](#defi)
     - [Infra](#infra)
-    - [Marketplace](#marketplace)
+    - [Marketplace](#marketplaces)
     - [NFT Tooling](#nft-tooling)
     - [Stablecoins](#stablecoins)
     - [Tooling](#tooling)
@@ -82,6 +82,7 @@ A collection of live projects within the Aptos ecosystem.
 ## Marketplaces
 - BlueMove - [Twitter](https://twitter.com/BlueMove_OA) | [Website](https://bluemove.net/)
 - ForartSwap - [Twitter](https://twitter.com/forart_ai) | [Website](https://forart.ai)
+- Metaspacecy - [Twitter](https://twitter.com/metaspacecy) | [Website](https://aptos.metaspacecy.com/)
 - Mojito Markets - [Twitter](https://twitter.com/MojitoMarkets) | [Website](https://mojitomarkets.exchange/)
 - Nodegen - [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
 - Nutrios - [Twitter](https://twitter.com/nutriosProject) | [Website](https://www.nutrios.co/)

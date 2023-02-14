@@ -29,6 +29,7 @@ A collection of live projects within the Aptos ecosystem.
 - Fama Crypto Majhong - [Twitter](https://twitter.com/Two_ye_) | [Website](https://fama.fun)
 - METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
 - AptosReels [DEVNET] - [Twitter](https://twitter.com/APToons_) | [https://hello-world-aptoons.vercel.app/)
+- Valireum - [Twitter](https://twitter.com/valireum) | [Website](https://valireum.net)
 
 ## DeFi
 - Abel Finance - [Github](https://github.com/abelfinance) | [Twitter](https://twitter.com/abelfinance) | [Website](https://abelfinance.xyz/)

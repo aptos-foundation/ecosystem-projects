@@ -107,6 +107,7 @@ A collection of live projects within the Aptos ecosystem.
 - Thala Labs - [Twitter](https://twitter.com/ThalaLabs) | [Website](https://www.thalalabs.xyz/)
 
 ## Tooling
+- Aptools.io - [Github](https://github.com/Aptools) | [Twitter](https://twitter.com/AptoolsExplorer) | [Website](https://github.com/Aptools)
 - Aptools - [Twitter](https://twitter.com/aptools_) | [Website](https://aptools.xyz/)
 - Aptos Name Service - [Twitter](https://twitter.com/aptosnames) | [Website](https://www.aptosnames.com/)
 - AptosFaucet - [Github](https://github.com/tolgaand/aptosfaucet) | [Website](https://www.aptosfaucet.com)

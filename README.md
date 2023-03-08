@@ -147,6 +147,7 @@ A collection of live projects within the Aptos ecosystem.
 - Trust Wallet - [Github](https://github.com/trustwallet) | [Twitter](https://twitter.com/trustwallet) | [Website](https://trustwallet.com/)
 
 ## Launchpads
+- Aptoslaunch - [Twitter](https://twitter.com/aptoslaunchIO) | [Website](https://aptoslaunch.io/))
 - Meeiro - [Twitter](https://twitter.com/Meeiro_xyz) | [Website](https://meeiro.xyz/)
 - Nodegen - [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
 - Proton Sale - [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)

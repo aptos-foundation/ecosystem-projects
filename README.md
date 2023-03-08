@@ -122,6 +122,7 @@ A collection of live projects within the Aptos ecosystem.
 - SonarWatch - [Github](https://github.com/sonarwatch) | [Twitter](https://twitter.com/Sonarwatch) | [Website](https://aptos.sonar.watch/)
 - SupraOracles - [Twitter](https://twitter.com/SupraOracles) | [Website](https://supraoracles.com/)
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
+- Aptos Dart - [Github](https://github.com/0xmove) | [Twitter](https://twitter.com/0xmovebuilder)
 
 ## Bridges
 - Axelar - [Github](https://github.com/axelarnetwork) | [Twitter](https://twitter.com/axelarcore) | [Website](https://axelar.network/)

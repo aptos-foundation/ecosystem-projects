@@ -65,6 +65,7 @@ A collection of live projects within the Aptos ecosystem.
 - Wing Finance - [Twitter](https://twitter.com/Wing_Finance) | [Website](https://flash.wing.finance/aptos)
 
 ## Infra
++ AptosGateway - [Github](https://github.com/AptosGateway) | [Twitter](https://twitter.com/AptosGateway) | [Website](https://www.aptgateway.xyz/)
 - Blast API by Bware Labs - [Github](https://github.com/bwarelabs) | [Twitter](https://twitter.com/blastapi) | [Website](https://blastapi.io/)
 - BlockEden - [Github](https://github.com/blockedenhq) | [Twitter](https://twitter.com/BlockEdenHQ) | [Website](https://blockeden.xyz/)
 - BlockPI Network - [Github](https://github.com/BlockPILabs) | [Twitter](https://twitter.com/RealBlockPI) | [Website](https://blockpi.io/)
@@ -81,7 +82,6 @@ A collection of live projects within the Aptos ecosystem.
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 - ZettaBlock - [Twitter](https://twitter.com/ZettaBlockHQ) | [Website](https://www.zettablock.com/)
 - 4EVERLAND - [Github](https://github.com/4everland) | [Twitter](https://twitter.com/4everland_org) | [Website](https://www.4everland.org/)
-+ AptosGateway - [Github](https://github.com/AptosGateway) | [Twitter](https://twitter.com/AptosGateway) | [Website](https://www.aptgateway.xyz/)
 
 ## Marketplaces
 - BlueMove - [Twitter](https://twitter.com/BlueMove_OA) | [Website](https://bluemove.net/)

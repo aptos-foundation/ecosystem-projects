@@ -169,7 +169,7 @@ Please note that this list is released with a [Contributor Code of Conduct](code
 Ensure your pull request adheres to the following:
 
 - Project Name in *Title Case* followed by ` - `
-- Accepted Links - *Github*, *Twitter*, *Website URL* each seperated by ` | `
+- Accepted Links - *Github*, *Twitter*, *Website URL* each separated by ` | `
 - Ensure project is grouped within the correct category, no more than *2* allowed
 - Entries should be arranged in alphabetical order sorted by Project Name
 

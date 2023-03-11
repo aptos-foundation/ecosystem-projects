@@ -113,6 +113,7 @@ A collection of live projects within the Aptos ecosystem.
 ## Tooling
 - Aptools - [Twitter](https://twitter.com/aptools_) | [Website](https://aptools.xyz/)
 - Aptools.io - [Github](https://github.com/Aptools) | [Twitter](https://twitter.com/AptoolsExplorer) | [Website](https://aptools.io/)
+- Aptos Dart - [Github](https://github.com/0xmove) | [Twitter](https://twitter.com/0xmovebuilder)
 - Aptos Name Service - [Twitter](https://twitter.com/aptosnames) | [Website](https://www.aptosnames.com/)
 - AptosFaucet - [Github](https://github.com/tolgaand/aptosfaucet) | [Website](https://www.aptosfaucet.com)
 - AptosPassport - [Github](https://github.com/aptospassport) | [Twitter](https://twitter.com/aptospassport) | [Website](https://aptpp.com/)
@@ -127,7 +128,6 @@ A collection of live projects within the Aptos ecosystem.
 - Streamflow - [Github](https://github.com/streamflow-finance) | [Twitter](https://twitter.com/Streamflow_fi) | [Website](https://streamflow.finance/)
 - SupraOracles - [Twitter](https://twitter.com/SupraOracles) | [Website](https://supraoracles.com/)
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
-- Aptos Dart - [Github](https://github.com/0xmove) | [Twitter](https://twitter.com/0xmovebuilder)
 
 ## Bridges
 - Axelar - [Github](https://github.com/axelarnetwork) | [Twitter](https://twitter.com/axelarcore) | [Website](https://axelar.network/)

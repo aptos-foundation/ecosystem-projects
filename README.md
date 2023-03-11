@@ -43,7 +43,7 @@ A collection of live projects within the Aptos ecosystem.
 - Ditto - [Twitter](https://twitter.com/Ditto_Finance) | [Website](https://www.dittofinance.io/)
 - Econia - [GitHub](https://github.com/econia-labs/econia) | [Twitter](https://twitter.com/EconiaLabs) | [Website](https://econialabs.com)
 - Ferum - [Github](https://github.com/ferum-dex/) | [Twitter](https://twitter.com/ferumxyz) | [Website](https://www.ferum.xyz/)
-- Foil Labs - [Github]() | [Twitter](https://twitter.com/foil_labs) | [Website](https://foil.so/)
+- Foil Labs - [Twitter](https://twitter.com/foil_labs) | [Website](https://foil.so/)
 - Forbitswap - [Twitter](https://twitter.com/forbitswap) | [Website](https://forbitswap.com/)
 - HoustonSwap - [Twitter](https://twitter.com/Houston_swap) | [Website](https://houstonswap.io/)
 - Jujube Finance - [Github](https://github.com/jujubefinance) | [Twitter](https://twitter.com/JujubeFinance) | [Website](https://www.jujube.finance)

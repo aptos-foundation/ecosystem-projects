@@ -7,16 +7,16 @@
 A collection of live projects within the Aptos ecosystem.
 
 - [Project Categories](#project-categories)
-    - [Gaming](#gaming)
-    - [DeFi](#defi)
-    - [Infra](#infra)
-    - [Marketplace](#marketplaces)
-    - [NFT Tooling](#nft-tooling)
-    - [Stablecoins](#stablecoins)
-    - [Tooling](#tooling)
-    - [Bridges](#bridges)
-    - [Wallets](#wallets)
-    - [Launchpads](#launchpads)
+  - [Bridges](#bridges)
+  - [DeFi](#defi)
+  - [Gaming](#gaming)
+  - [Infra](#infra)
+  - [Launchpads](#launchpads)
+  - [Marketplace](#marketplaces)
+  - [NFT Tooling](#nft-tooling)
+  - [Stablecoins](#stablecoins)
+  - [Tooling](#tooling)
+  - [Wallets](#wallets)
 - [Contribution Guidelines](#contribution-guidelines)
 
 ---

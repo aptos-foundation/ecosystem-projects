@@ -33,6 +33,7 @@ A collection of live projects within the Aptos ecosystem.
 ## DeFi
 - Abel Finance - [Github](https://github.com/abelfinance) | [Twitter](https://twitter.com/abelfinance) | [Website](https://abelfinance.xyz/)
 - AnimeSwap - [Github](http://github.com/AnimeSwap) | [Twitter](https://twitter.com/animeswap_org) | [Website](https://app.animeswap.org/)
+- Aptin Labs - [Github](https://github.com/AptinLabs) | [Twitter](https://twitter.com/aptinlabs) | [Website](https://aptin.io)
 - Aptools - [Twitter](https://twitter.com/aptools_) | [Website](https://aptools.xyz/)
 - Argo - [Twitter](https://twitter.com/ArgoUSD) | [Website](https://argo.fi/)
 - Aries Markets - [Twitter](https://twitter.com/AriesMarkets) | [Website](https://ariesmarkets.xyz/)
@@ -61,7 +62,6 @@ A collection of live projects within the Aptos ecosystem.
 - Tortuga - [Twitter](https://twitter.com/TortugaFinance) | [Website](https://tortuga.finance/)
 - Tsunami Finance - [Twitter](https://twitter.com/TsunamiFinance_) | [Website](https://tsunami.finance/)
 - Umi - [Github](https://github.com/umi-ag) | [Twitter](https://twitter.com/umi_protocol) | [Website](https://umi.ag)
-- Aptin Labs - [Github](https://github.com/AptinLabs) | [Twitter](https://twitter.com/aptinlabs) | [Website](https://aptin.io)
 - Wing Finance - [Twitter](https://twitter.com/Wing_Finance) | [Website](https://flash.wing.finance/aptos)
 
 ## Infra

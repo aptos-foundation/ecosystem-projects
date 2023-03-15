@@ -25,6 +25,7 @@ A collection of live projects within the Aptos ecosystem.
 
 ## Gaming
 - Aptos Flip - [Twitter](https://twitter.com/aptosflip) | [Website](https://aptflip.com)
+- Aptos Wolf Game - [Github](https://github.com/aptoswolfgame) | [Twitter](https://twitter.com/wolfgameaptos) | [Website](https://wolfgameaptos.xyz/)
 - Drawshop Kingdom Reverse - [Twitter](https://twitter.com/DrawshopKingdom) | [Website](https://drawshop.io)
 - METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
 - AptosReels [DEVNET] - [Twitter](https://twitter.com/APToons_) | [Website](https://hello-world-aptoons.vercel.app/)
@@ -38,10 +39,12 @@ A collection of live projects within the Aptos ecosystem.
 - Aries Markets - [Twitter](https://twitter.com/AriesMarkets) | [Website](https://ariesmarkets.xyz/)
 - AUX - [Github](https://github.com/aux-exchange) | [Twitter](https://twitter.com/AuxExchange) | [Website](https://aux.exchange/)
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
+- Cetus - [Github](https://github.com/CetusProtocol) | [Twitter](https://twitter.com/CetusProtocol) | [Website](https://www.cetus.zone/)
 - Ditto - [Twitter](https://twitter.com/Ditto_Finance) | [Website](https://www.dittofinance.io/)
 - Econia - [GitHub](https://github.com/econia-labs/econia) | [Twitter](https://twitter.com/EconiaLabs) | [Website](https://econialabs.com)
 - Ferum - [Github](https://github.com/ferum-dex/) | [Twitter](https://twitter.com/ferumxyz) | [Website](https://www.ferum.xyz/)
 - Foil Labs - [Github]() | [Twitter](https://twitter.com/foil_labs) | [Website](https://foil.so/)
+- Forbitswap - [Twitter](https://twitter.com/forbitswap) | [Website](https://forbitswap.com/)
 - HoustonSwap - [Twitter](https://twitter.com/Houston_swap) | [Website](https://houstonswap.io/)
 - Jujube Finance - [Github](https://github.com/jujubefinance) | [Twitter](https://twitter.com/JujubeFinance) | [Website](https://www.jujube.finance)
 - Kana Labs - [Twitter](https://twitter.com/kanalabs) | [Website](https://app.kanalabs.io/)
@@ -50,6 +53,7 @@ A collection of live projects within the Aptos ecosystem.
 - PancakeSwap - [Github](https://github.com/pancakeswap/) | [Twitter](https://twitter.com/pancakeswap) | [Website](https://aptos.pancakeswap.finance/swap)
 - Patronus - [Github](https://github.com/patronusfi) | [Twitter](https://twitter.com/Patronus_Fi) | [Website](https://patronus.fi/)
 - Pontem Network - [Github](https://github.com/pontem-network) | [Twitter](https://twitter.com/PontemNetwork) | [Website](https://pontem.network/)
+- Seam Money - [Github](https://github.com/seammoney/) | [Twitter](https://twitter.com/SeamMoney) | [Website](https://seam.money/)
 - Snotra - [Github](https://github.com/SnotraTech) | [Twitter](https://twitter.com/SnotraQ) | [Website](https://snotra.tech)
 - Sokel - [Twitter](https://twitter.com/SokelFinance) | [Website](https://www.sokel.fi/)
 - Starswap - [Github](https://github.com/Elements-Studio/starswap-core-aptos) | [Twitter](https://twitter.com/StarswapEN) | [Website](https://starswap.xyz/)
@@ -72,11 +76,13 @@ A collection of live projects within the Aptos ecosystem.
 - Mokshya Protocol - [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
 - Moonpay - [Twitter](https://twitter.com/moonpay) | [Website](https://www.moonpay.com/)
 - NodeReal - [Github](https://github.com/node-real) | [Twitter](https://twitter.com/Nodereal_io) | [Website](https://nodereal.io/)
+- Overmind - [Github](https://github.com/overmind-xyz) | [Twitter](https://twitter.com/overmind_xyz) | [Website](https://overmind.xyz)
 - Sentio - [Github](https://github.com/sentioxyz) | [Twitter](https://twitter.com/sentioxyz) | [Website](https://sentio.xyz/)
 - Sonarverse - [Website](https://www.sonarverse.com/)
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 - ZettaBlock - [Twitter](https://twitter.com/ZettaBlockHQ) | [Website](https://www.zettablock.com/)
 - 4EVERLAND - [Github](https://github.com/4everland) | [Twitter](https://twitter.com/4everland_org) | [Website](https://www.4everland.org/)
++ AptosGateway - [Github](https://github.com/AptosGateway) | [Twitter](https://twitter.com/AptosGateway) | [Website](https://www.aptgateway.xyz/)
 
 ## Marketplaces
 - BlueMove - [Twitter](https://twitter.com/BlueMove_OA) | [Website](https://bluemove.net/)
@@ -115,11 +121,14 @@ A collection of live projects within the Aptos ecosystem.
 - Dialect - [Github](https://github.com/dialectlabs) | [Twitter](https://twitter.com/saydialect) | [Website](https://www.dialect.to/)
 - Hippo Labs - [Github](https://github.com/hippospace) | [Twitter](https://twitter.com/hippolabs__) | [Website](https://hippo.space/)
 - Notifi - [Github](https://github.com/notifi-network) | [Twitter](https://twitter.com/NotifiNetwork) | [Website](https://notifi.network/)
+- Overmind - [Github](https://github.com/overmind-xyz) | [Twitter](https://twitter.com/overmind_xyz) | [Website](https://overmind.xyz)
 - Pyth Network - [Github](https://github.com/pyth-network) | [Twitter](https://twitter.com/PythNetwork) | [Website](https://pyth.network/)
 - Sentio XYZ [Github](https://github.com/sentioxyz) | [Twitter](https://twitter.com/sentioxyz) | [Website](https://sentio.xyz/)
 - SonarWatch - [Github](https://github.com/sonarwatch) | [Twitter](https://twitter.com/Sonarwatch) | [Website](https://aptos.sonar.watch/)
+- Streamflow - [Github](https://github.com/streamflow-finance) | [Twitter](https://twitter.com/Streamflow_fi) | [Website](https://streamflow.finance/)
 - SupraOracles - [Twitter](https://twitter.com/SupraOracles) | [Website](https://supraoracles.com/)
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
+- Aptos Dart - [Github](https://github.com/0xmove) | [Twitter](https://twitter.com/0xmovebuilder)
 
 ## Bridges
 - Axelar - [Github](https://github.com/axelarnetwork) | [Twitter](https://twitter.com/axelarcore) | [Website](https://axelar.network/)
@@ -146,6 +155,7 @@ A collection of live projects within the Aptos ecosystem.
 - Trust Wallet - [Github](https://github.com/trustwallet) | [Twitter](https://twitter.com/trustwallet) | [Website](https://trustwallet.com/)
 
 ## Launchpads
+- Aptoslaunch - [Twitter](https://twitter.com/aptoslaunchIO) | [Website](https://aptoslaunch.io/))
 - Meeiro - [Twitter](https://twitter.com/Meeiro_xyz) | [Website](https://meeiro.xyz/)
 - Nodegen - [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
 - Proton Sale - [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)

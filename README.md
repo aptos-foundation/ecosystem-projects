@@ -7,17 +7,17 @@
 A collection of live projects within the Aptos ecosystem.
 
 - [Project Categories](#project-categories)
-    - [Gaming](#gaming)
-    - [DeFi](#defi)
-    - [Infra](#infra)
-    - [Marketplace](#marketplaces)
-    - [NFT Tooling](#nft-tooling)
-    - [Stablecoins](#stablecoins)
-    - [Tooling](#tooling)
-    - [Bridges](#bridges)
-    - [Wallets](#wallets)
-    - [Launchpads](#launchpads)
-    - [Explorers](#explorers)
+  - [Bridges](#bridges)
+  - [DeFi](#defi)
+  - [Explorers](#explorers)
+  - [Gaming](#gaming)
+  - [Infra](#infra)
+  - [Launchpads](#launchpads)
+  - [Marketplace](#marketplaces)
+  - [NFT Tooling](#nft-tooling)
+  - [Stablecoins](#stablecoins)
+  - [Tooling](#tooling)
+  - [Wallets](#wallets)
 - [Contribution Guidelines](#contribution-guidelines)
 
 ---
@@ -27,13 +27,14 @@ A collection of live projects within the Aptos ecosystem.
 ## Gaming
 - Aptos Flip - [Twitter](https://twitter.com/aptosflip) | [Website](https://aptflip.com)
 - Aptos Wolf Game - [Github](https://github.com/aptoswolfgame) | [Twitter](https://twitter.com/wolfgameaptos) | [Website](https://wolfgameaptos.xyz/)
+- AptosReels - [Twitter](https://twitter.com/APToons_) | [Website](https://hello-world-aptoons.vercel.app/)
 - Drawshop Kingdom Reverse - [Twitter](https://twitter.com/DrawshopKingdom) | [Website](https://drawshop.io)
 - METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
-- AptosReels [DEVNET] - [Twitter](https://twitter.com/APToons_) | [Website](https://hello-world-aptoons.vercel.app/)
 
 ## DeFi
 - Abel Finance - [Github](https://github.com/abelfinance) | [Twitter](https://twitter.com/abelfinance) | [Website](https://abelfinance.xyz/)
 - AnimeSwap - [Github](http://github.com/AnimeSwap) | [Twitter](https://twitter.com/animeswap_org) | [Website](https://app.animeswap.org/)
+- Aptin Labs - [Github](https://github.com/AptinLabs) | [Twitter](https://twitter.com/aptinlabs) | [Website](https://aptin.io)
 - Aptools - [Twitter](https://twitter.com/aptools_) | [Website](https://aptools.xyz/)
 - Argo - [Twitter](https://twitter.com/ArgoUSD) | [Website](https://argo.fi/)
 - Aries Markets - [Twitter](https://twitter.com/AriesMarkets) | [Website](https://ariesmarkets.xyz/)
@@ -43,7 +44,7 @@ A collection of live projects within the Aptos ecosystem.
 - Ditto - [Twitter](https://twitter.com/Ditto_Finance) | [Website](https://www.dittofinance.io/)
 - Econia - [GitHub](https://github.com/econia-labs/econia) | [Twitter](https://twitter.com/EconiaLabs) | [Website](https://econialabs.com)
 - Ferum - [Github](https://github.com/ferum-dex/) | [Twitter](https://twitter.com/ferumxyz) | [Website](https://www.ferum.xyz/)
-- Foil Labs - [Github]() | [Twitter](https://twitter.com/foil_labs) | [Website](https://foil.so/)
+- Foil Labs - [Twitter](https://twitter.com/foil_labs) | [Website](https://foil.so/)
 - Forbitswap - [Twitter](https://twitter.com/forbitswap) | [Website](https://forbitswap.com/)
 - HoustonSwap - [Twitter](https://twitter.com/Houston_swap) | [Website](https://houstonswap.io/)
 - Jujube Finance - [Github](https://github.com/jujubefinance) | [Twitter](https://twitter.com/JujubeFinance) | [Website](https://www.jujube.finance)
@@ -62,10 +63,10 @@ A collection of live projects within the Aptos ecosystem.
 - Tortuga - [Twitter](https://twitter.com/TortugaFinance) | [Website](https://tortuga.finance/)
 - Tsunami Finance - [Twitter](https://twitter.com/TsunamiFinance_) | [Website](https://tsunami.finance/)
 - Umi - [Github](https://github.com/umi-ag) | [Twitter](https://twitter.com/umi_protocol) | [Website](https://umi.ag)
-- Aptin Labs - [Github](https://github.com/AptinLabs) | [Twitter](https://twitter.com/aptinlabs) | [Website](https://aptin.io)
 - Wing Finance - [Twitter](https://twitter.com/Wing_Finance) | [Website](https://flash.wing.finance/aptos)
 
 ## Infra
++ AptosGateway - [Github](https://github.com/AptosGateway) | [Twitter](https://twitter.com/AptosGateway) | [Website](https://www.aptgateway.xyz/)
 - Blast API by Bware Labs - [Github](https://github.com/bwarelabs) | [Twitter](https://twitter.com/blastapi) | [Website](https://blastapi.io/)
 - BlockEden - [Github](https://github.com/blockedenhq) | [Twitter](https://twitter.com/BlockEdenHQ) | [Website](https://blockeden.xyz/)
 - BlockPI Network - [Github](https://github.com/BlockPILabs) | [Twitter](https://twitter.com/RealBlockPI) | [Website](https://blockpi.io/)
@@ -82,7 +83,6 @@ A collection of live projects within the Aptos ecosystem.
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 - ZettaBlock - [Twitter](https://twitter.com/ZettaBlockHQ) | [Website](https://www.zettablock.com/)
 - 4EVERLAND - [Github](https://github.com/4everland) | [Twitter](https://twitter.com/4everland_org) | [Website](https://www.4everland.org/)
-+ AptosGateway - [Github](https://github.com/AptosGateway) | [Twitter](https://twitter.com/AptosGateway) | [Website](https://www.aptgateway.xyz/)
 
 ## Marketplaces
 - BlueMove - [Twitter](https://twitter.com/BlueMove_OA) | [Website](https://bluemove.net/)
@@ -114,6 +114,7 @@ A collection of live projects within the Aptos ecosystem.
 ## Tooling
 - Aptools - [Twitter](https://twitter.com/aptools_) | [Website](https://aptools.xyz/)
 - Aptools.io - [Github](https://github.com/Aptools) | [Twitter](https://twitter.com/AptoolsExplorer) | [Website](https://aptools.io/)
+- Aptos Dart - [Github](https://github.com/0xmove) | [Twitter](https://twitter.com/0xmovebuilder)
 - Aptos Name Service - [Twitter](https://twitter.com/aptosnames) | [Website](https://www.aptosnames.com/)
 - AptosFaucet - [Github](https://github.com/tolgaand/aptosfaucet) | [Website](https://www.aptosfaucet.com)
 - AptosPassport - [Github](https://github.com/aptospassport) | [Twitter](https://twitter.com/aptospassport) | [Website](https://aptpp.com/)
@@ -128,7 +129,6 @@ A collection of live projects within the Aptos ecosystem.
 - Streamflow - [Github](https://github.com/streamflow-finance) | [Twitter](https://twitter.com/Streamflow_fi) | [Website](https://streamflow.finance/)
 - SupraOracles - [Twitter](https://twitter.com/SupraOracles) | [Website](https://supraoracles.com/)
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
-- Aptos Dart - [Github](https://github.com/0xmove) | [Twitter](https://twitter.com/0xmovebuilder)
 
 ## Bridges
 - Axelar - [Github](https://github.com/axelarnetwork) | [Twitter](https://twitter.com/axelarcore) | [Website](https://axelar.network/)
@@ -178,7 +178,7 @@ Please note that this list is released with a [Contributor Code of Conduct](code
 Ensure your pull request adheres to the following:
 
 - Project Name in *Title Case* followed by ` - `
-- Accepted Links - *Github*, *Twitter*, *Website URL* each seperated by ` | `
+- Accepted Links - *Github*, *Twitter*, *Website URL* each separated by ` | `
 - Ensure project is grouped within the correct category, no more than *2* allowed
 - Entries should be arranged in alphabetical order sorted by Project Name
 

@@ -9,6 +9,7 @@ A collection of live projects within the Aptos ecosystem.
 - [Project Categories](#project-categories)
   - [Bridges](#bridges)
   - [DeFi](#defi)
+  - [Explorers](#explorers)
   - [Gaming](#gaming)
   - [Infra](#infra)
   - [Launchpads](#launchpads)
@@ -158,6 +159,14 @@ A collection of live projects within the Aptos ecosystem.
 - Meeiro - [Twitter](https://twitter.com/Meeiro_xyz) | [Website](https://meeiro.xyz/)
 - Nodegen - [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
 - Proton Sale - [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)
+
+## Explorers
+- Apscan by Apscan - [Website](https://apscan.io/)
+- Aptos Explorer by AptosLabs - [Github](https://github.com/aptos-labs/explorer) | [Website](https://explorer.aptoslabs.com/)
+- AptoScan.xyz by 3NJOY Labs - [Website](https://aptoscan.xyz)
+- AptoScan by EtherScan - [Website](https://aptoscan.com/)
+- TraceMove by NodeReal - [Website](https://tracemove.io)
+
 ---
 
 

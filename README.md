@@ -28,6 +28,7 @@ A collection of live projects within the Aptos ecosystem.
 - Aptos Flip - [Twitter](https://twitter.com/aptosflip) | [Website](https://aptflip.com)
 - Aptos Wolf Game - [Github](https://github.com/aptoswolfgame) | [Twitter](https://twitter.com/wolfgameaptos) | [Website](https://wolfgameaptos.xyz/)
 - AptosReels - [Twitter](https://twitter.com/APToons_) | [Website](https://hello-world-aptoons.vercel.app/)
+- Byten - [Twitter](https://twitter.com/BytenOfficial) | [Website](https://byten.io/)
 - Drawshop Kingdom Reverse - [Twitter](https://twitter.com/DrawshopKingdom) | [Website](https://drawshop.io)
 - METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
 

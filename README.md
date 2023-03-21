@@ -31,7 +31,7 @@ A collection of live projects within the Aptos ecosystem.
 - Byten - [Twitter](https://twitter.com/BytenOfficial) | [Website](https://byten.io/)
 - Drawshop Kingdom Reverse - [Twitter](https://twitter.com/DrawshopKingdom) | [Website](https://drawshop.io)
 - METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
-- RollApt - [Twitter](https://twitter.com/rollapt) | [https://rollapt.xyz/)
+- RollApt - [Twitter](https://twitter.com/rollapt) | [Website](https://rollapt.xyz/)
 - Werewolf vs Witch - [Github](https://github.com/werewolfandwitch/aptos_werewolfandwitch) | [Twitter](https://twitter.com/AWW_xyz) | [Website](https://werewolfandwitch.xyz/)
 
 ## DeFi
@@ -69,7 +69,7 @@ A collection of live projects within the Aptos ecosystem.
 - Wing Finance - [Twitter](https://twitter.com/Wing_Finance) | [Website](https://flash.wing.finance/aptos)
 
 ## Infra
-+ AptosGateway - [Github](https://github.com/AptosGateway) | [Twitter](https://twitter.com/AptosGateway) | [Website](https://www.aptgateway.xyz/)
+- AptosGateway - [Github](https://github.com/AptosGateway) | [Twitter](https://twitter.com/AptosGateway) | [Website](https://www.aptgateway.xyz/)
 - Blast API by Bware Labs - [Github](https://github.com/bwarelabs) | [Twitter](https://twitter.com/blastapi) | [Website](https://blastapi.io/)
 - BlockEden - [Github](https://github.com/blockedenhq) | [Twitter](https://twitter.com/BlockEdenHQ) | [Website](https://blockeden.xyz/)
 - BlockPI Network - [Github](https://github.com/BlockPILabs) | [Twitter](https://twitter.com/RealBlockPI) | [Website](https://blockpi.io/)

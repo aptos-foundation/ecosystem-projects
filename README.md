@@ -24,15 +24,12 @@ A collection of live projects within the Aptos ecosystem.
 
 # Project Categories
 
-## Gaming
-- Aptos Flip - [Twitter](https://twitter.com/aptosflip) | [Website](https://aptflip.com)
-- Aptos Wolf Game - [Github](https://github.com/aptoswolfgame) | [Twitter](https://twitter.com/wolfgameaptos) | [Website](https://wolfgameaptos.xyz/)
-- AptosReels - [Twitter](https://twitter.com/APToons_) | [Website](https://hello-world-aptoons.vercel.app/)
-- Byten - [Twitter](https://twitter.com/BytenOfficial) | [Website](https://byten.io/)
-- Drawshop Kingdom Reverse - [Twitter](https://twitter.com/DrawshopKingdom) | [Website](https://drawshop.io)
-- METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
-- RollApt - [Twitter](https://twitter.com/rollapt) | [Website](https://rollapt.xyz/)
-- Werewolf vs Witch - [Github](https://github.com/werewolfandwitch/aptos_werewolfandwitch) | [Twitter](https://twitter.com/AWW_xyz) | [Website](https://werewolfandwitch.xyz/)
+## Bridges
+- Axelar - [Github](https://github.com/axelarnetwork) | [Twitter](https://twitter.com/axelarcore) | [Website](https://axelar.network/)
+- Celer - [Twitter](https://twitter.com/CelerNetwork) | [Website](https://www.celer.network/)
+- LayerZero - [Github](https://github.com/LayerZero-Labs/LayerZero-Aptos-Contract) | [Twitter](https://twitter.com/layerzero_labs) | [Website](https://layerzero.network/)
+- Multichain - [Github](https://github.com/anyswap) | [Twitter](https://twitter.com/MultichainOrg) | [Website](https://multichain.org/)
+- Wormhole - [Github](https://github.com/wormhole-foundation/wormhole) | [Twitter](https://twitter.com/wormholecrypto) | [Website](https://wormhole.com/)
 
 ## DeFi
 - Abel Finance - [Github](https://github.com/abelfinance) | [Twitter](https://twitter.com/abelfinance) | [Website](https://abelfinance.xyz/)
@@ -68,6 +65,23 @@ A collection of live projects within the Aptos ecosystem.
 - Umi - [Github](https://github.com/umi-ag) | [Twitter](https://twitter.com/umi_protocol) | [Website](https://umi.ag)
 - Wing Finance - [Twitter](https://twitter.com/Wing_Finance) | [Website](https://flash.wing.finance/aptos)
 
+## Explorers
+- Apscan by Apscan - [Website](https://apscan.io/)
+- Aptos Explorer by AptosLabs - [Github](https://github.com/aptos-labs/explorer) | [Website](https://explorer.aptoslabs.com/)
+- AptoScan.xyz by 3NJOY Labs - [Website](https://aptoscan.xyz)
+- AptoScan by EtherScan - [Website](https://aptoscan.com/)
+- TraceMove by NodeReal - [Website](https://tracemove.io)
+
+## Gaming
+- Aptos Flip - [Twitter](https://twitter.com/aptosflip) | [Website](https://aptflip.com)
+- Aptos Wolf Game - [Github](https://github.com/aptoswolfgame) | [Twitter](https://twitter.com/wolfgameaptos) | [Website](https://wolfgameaptos.xyz/)
+- AptosReels - [Twitter](https://twitter.com/APToons_) | [Website](https://hello-world-aptoons.vercel.app/)
+- Byten - [Twitter](https://twitter.com/BytenOfficial) | [Website](https://byten.io/)
+- Drawshop Kingdom Reverse - [Twitter](https://twitter.com/DrawshopKingdom) | [Website](https://drawshop.io)
+- METAPIXEL - [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
+- RollApt - [Twitter](https://twitter.com/rollapt) | [Website](https://rollapt.xyz/)
+- Werewolf vs Witch - [Github](https://github.com/werewolfandwitch/aptos_werewolfandwitch) | [Twitter](https://twitter.com/AWW_xyz) | [Website](https://werewolfandwitch.xyz/)
+
 ## Infra
 - AptosGateway - [Github](https://github.com/AptosGateway) | [Twitter](https://twitter.com/AptosGateway) | [Website](https://www.aptgateway.xyz/)
 - Blast API by Bware Labs - [Github](https://github.com/bwarelabs) | [Twitter](https://twitter.com/blastapi) | [Website](https://blastapi.io/)
@@ -86,6 +100,12 @@ A collection of live projects within the Aptos ecosystem.
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 - ZettaBlock - [Twitter](https://twitter.com/ZettaBlockHQ) | [Website](https://www.zettablock.com/)
 - 4EVERLAND - [Github](https://github.com/4everland) | [Twitter](https://twitter.com/4everland_org) | [Website](https://www.4everland.org/)
+
+## Launchpads
+- Aptoslaunch - [Twitter](https://twitter.com/aptoslaunchIO) | [Website](https://aptoslaunch.io/)
+- Meeiro - [Twitter](https://twitter.com/Meeiro_xyz) | [Website](https://meeiro.xyz/)
+- Nodegen - [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
+- Proton Sale - [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)
 
 ## Marketplaces
 - BlueMove - [Twitter](https://twitter.com/BlueMove_OA) | [Website](https://bluemove.net/)
@@ -134,13 +154,6 @@ A collection of live projects within the Aptos ecosystem.
 - SupraOracles - [Twitter](https://twitter.com/SupraOracles) | [Website](https://supraoracles.com/)
 - Switchboard - [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 
-## Bridges
-- Axelar - [Github](https://github.com/axelarnetwork) | [Twitter](https://twitter.com/axelarcore) | [Website](https://axelar.network/)
-- Celer - [Twitter](https://twitter.com/CelerNetwork) | [Website](https://www.celer.network/)
-- LayerZero - [Github](https://github.com/LayerZero-Labs/LayerZero-Aptos-Contract) | [Twitter](https://twitter.com/layerzero_labs) | [Website](https://layerzero.network/)
-- Multichain - [Github](https://github.com/anyswap) | [Twitter](https://twitter.com/MultichainOrg) | [Website](https://multichain.org/)
-- Wormhole - [Github](https://github.com/wormhole-foundation/wormhole) | [Twitter](https://twitter.com/wormholecrypto) | [Website](https://wormhole.com/)
-
 ## Wallets
 - Blocto - [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
 - EVO Wallet - [Twitter](https://twitter.com/EvoWalletAptos) | [Website](https://evowallet.app/)
@@ -158,18 +171,6 @@ A collection of live projects within the Aptos ecosystem.
 - StarMask - [Github](https://github.com/starcoinorg/starmask-extension) | [Website](https://westar.io/project/#starmask)
 - Trust Wallet - [Github](https://github.com/trustwallet) | [Twitter](https://twitter.com/trustwallet) | [Website](https://trustwallet.com/)
 
-## Launchpads
-- Aptoslaunch - [Twitter](https://twitter.com/aptoslaunchIO) | [Website](https://aptoslaunch.io/)
-- Meeiro - [Twitter](https://twitter.com/Meeiro_xyz) | [Website](https://meeiro.xyz/)
-- Nodegen - [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
-- Proton Sale - [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)
-
-## Explorers
-- Apscan by Apscan - [Website](https://apscan.io/)
-- Aptos Explorer by AptosLabs - [Github](https://github.com/aptos-labs/explorer) | [Website](https://explorer.aptoslabs.com/)
-- AptoScan.xyz by 3NJOY Labs - [Website](https://aptoscan.xyz)
-- AptoScan by EtherScan - [Website](https://aptoscan.com/)
-- TraceMove by NodeReal - [Website](https://tracemove.io)
 
 ---
 

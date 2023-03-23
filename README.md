@@ -203,13 +203,13 @@ This list is a grouped collection of live projects built on [Aptos](https://apto
 Please note that this list is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this list you agree to abide by its terms.
 
 Ensure your pull request adheres to the following:
-
-- Project Name in *Title Case* followed by ` - `
+- `|`
+- Project Name in *Title Case* followed by ` | `
 - Accepted Links - *Github*, *Twitter*, *Website URL* each separated by ` | `
 - Ensure project is grouped within the correct category, no more than *2* allowed
 - Entries should be arranged in alphabetical order sorted by Project Name
 
-Example: `Project Name - [Github](url) | [Twitter](url) | [Website](url)`
+Example: `| Project Name | [Github](url) | [Twitter](url) | [Website](url)`
 
 
 ## Updating your PR

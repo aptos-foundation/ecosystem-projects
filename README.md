@@ -43,6 +43,7 @@ A collection of live projects within the Aptos ecosystem.
 | Argo || [Twitter](https://twitter.com/ArgoUSD) | [Website](https://argo.fi/)
 | Aries Markets || [Twitter](https://twitter.com/AriesMarkets) | [Website](https://ariesmarkets.xyz/)
 | AUX | [Github](https://github.com/aux-exchange) | [Twitter](https://twitter.com/AuxExchange) | [Website](https://aux.exchange/)
+| BaptSwap | [Github](https://github.com/baptswap) | [Twitter](https://twitter.com/baptswap) | [Website](https://baptswap.com)
 | Blocto | [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
 | Cetus | [Github](https://github.com/CetusProtocol) | [Twitter](https://twitter.com/CetusProtocol) | [Website](https://www.cetus.zone/)
 | Ditto || [Twitter](https://twitter.com/Ditto_Finance) | [Website](https://www.dittofinance.io/)

@@ -15,6 +15,7 @@ A collection of live projects within the Aptos ecosystem.
   - [Launchpads](#launchpads)
   - [Marketplace](#marketplaces)
   - [NFT Tooling](#nft-tooling)
+  - [Security](#security)
   - [Stablecoins](#stablecoins)
   - [Tooling](#tooling)
   - [Wallets](#wallets)
@@ -149,6 +150,11 @@ A collection of live projects within the Aptos ecosystem.
 | Souffl3 || [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 | Topaz || [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
 | UniBazaar ||| [Website](https://ubz.aptpp.com/)
+
+## Security
+| Name | Github  | Twitter | Website |
+|------|---------|---------|---------|
+| OtterSec | [Github](https://github.com/otter-sec) | [Twitter](https://twitter.com/osec_io) | [Website](https://osec.io/)
 
 ## Stablecoins
 | Name | Github  | Twitter | Website |

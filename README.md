@@ -91,6 +91,7 @@ A collection of live projects within the Aptos ecosystem.
 | METAPIXEL || [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
 | RollApt || [Twitter](https://twitter.com/rollapt) | [Website](https://rollapt.xyz/)
 | Werewolf vs Witch | [Github](https://github.com/werewolfandwitch/aptos_werewolfandwitch) | [Twitter](https://twitter.com/AWW_xyz) | [Website](https://werewolfandwitch.xyz/)
+| Super Athletes Club || [Twitter](https://twitter.com/sacnft_official) | [Website](https://sac-nft.com/)
 
 ## Infra
 | Name | Github  | Twitter | Website |

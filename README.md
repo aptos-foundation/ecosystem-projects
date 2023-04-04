@@ -185,6 +185,7 @@ A collection of live projects within the Aptos ecosystem.
 | EVO Wallet || [Twitter](https://twitter.com/EvoWalletAptos) | [Website](https://evowallet.app/)
 | Fewcha | [Github](https://github.com/fewcha-wallet) | [Twitter](https://twitter.com/fewchawallet) | [Website](https://fewcha.app/)
 | Fletch ||| [Website](https://fletchwallet.io/)
+| FoxWallet | [Github](https://github.com/foxwallet) | [Twitter](https://twitter.com/FoxWallet) | [Website](https://foxwallet.com/)
 | Hive Wallet || [Twitter](https://twitter.com/hivewithme) | [Website](https://www.hivewithme.xyz/)
 | Martian || [Twitter](https://twitter.com/martian_wallet) | [Website](https://martianwallet.xyz/)
 | Math Wallet | [Github](https://github.com/mathwallet) | [Twitter](https://twitter.com/Mathwallet) | [Website](https://mathwallet.org/)

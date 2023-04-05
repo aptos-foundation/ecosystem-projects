@@ -118,7 +118,7 @@ A collection of live projects within the Aptos ecosystem.
 | Meeiro || [Twitter](https://twitter.com/Meeiro_xyz) | [Website](https://meeiro.xyz/)
 | Nodegen || [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
 | Proton Sale | [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)
-| Aptopad | [Github](https://github.com/Aptopad-io) | [Twitter](https://twitter.com/aptoapad_io) | [Website](https://aptopad.io/)
+| Aptopad | [Github](https://github.com/Aptopad-io) | [Twitter](https://twitter.com/aptopad_io) | [Website](https://aptopad.io/)
 
 ## Marketplaces
 | Name | Github  | Twitter | Website |

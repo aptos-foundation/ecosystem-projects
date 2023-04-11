@@ -141,6 +141,7 @@ A collection of live projects within the Aptos ecosystem.
 ## NFT Tooling
 | Name | Github  | Twitter | Website |
 |------|---------|---------|---------|
+| Apto.id || [Twitter](https://twitter.com/apto_id) | [Website](https://apto.id/)
 | Blocto | [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
 | CandyMachine | [Github](https://github.com/candymachineapt) | [Twitter](https://twitter.com/candymachineapp) | [Website](https://candymachine.app/)
 | Indexer || [Twitter](https://twitter.com/indexer_xyz) | [Website](https://indexer.xyz/)

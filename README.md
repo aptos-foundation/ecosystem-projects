@@ -63,6 +63,7 @@ A collection of live projects within the Aptos ecosystem.
 | Seam Money | [Github](https://github.com/seammoney/) | [Twitter](https://twitter.com/SeamMoney) | [Website](https://seam.money/)
 | Snotra | [Github](https://github.com/SnotraTech) | [Twitter](https://twitter.com/SnotraQ) | [Website](https://snotra.tech)
 | Sokel || [Twitter](https://twitter.com/SokelFinance) | [Website](https://www.sokel.fi/)
+| Spectrum Protocol | [Github](https://github.com/spectrumprotocol) | [Twitter](https://twitter.com/SpecProtocol) | [Website](https://aptos.spec.finance/)
 | Starswap | [Github](https://github.com/Elements-Studio/starswap-core-aptos) | [Twitter](https://twitter.com/StarswapEN) | [Website](https://starswap.xyz/)
 | Superposition || [Twitter](https://twitter.com/SuperpositionFi) | [Website](https://www.superposition.finance/)
 | Thala Labs || [Twitter](https://twitter.com/ThalaLabs) | [Website](https://www.thalalabs.xyz/)

@@ -169,7 +169,7 @@ A collection of live projects within the Aptos ecosystem.
 |------|---------|---------|---------|
 | Aptools || [Twitter](https://twitter.com/aptools_) | [Website](https://aptools.xyz/)
 | Aptools.io | [Github](https://github.com/Aptools) | [Twitter](https://twitter.com/AptoolsExplorer) | [Website](https://aptools.io/)
-| Aptos Dart | [Github](https://github.com/0xmove) | [Twitter](https://twitter.com/0xmovebuilder)
+| Aptos Dart | [Github](https://github.com/mofalabs/aptos) | [Twitter](https://twitter.com/mofalabs)
 | Aptos Name Service || [Twitter](https://twitter.com/aptosnames) | [Website](https://www.aptosnames.com/)
 | AptosFaucet | [Github](https://github.com/tolgaand/aptosfaucet) || [Website](https://www.aptosfaucet.com)
 | AptosPassport | [Github](https://github.com/aptospassport) | [Twitter](https://twitter.com/aptospassport) | [Website](https://aptpp.com/)
@@ -197,6 +197,7 @@ A collection of live projects within the Aptos ecosystem.
 | Martian || [Twitter](https://twitter.com/martian_wallet) | [Website](https://martianwallet.xyz/)
 | Math Wallet | [Github](https://github.com/mathwallet) | [Twitter](https://twitter.com/Mathwallet) | [Website](https://mathwallet.org/)
 | Momentum Safe || [Twitter](https://twitter.com/MomentumSafe) | [Website](https://m-safe.io/)
+| Mofa | [Github](https://github.com/mofalabs) | [Twitter](https://twitter.com/mofalabs) | [Website](https://mofalabs.com/)
 | Nightly | [Github](https://github.com/nightly-labs) | [Twitter](https://twitter.com/Nightly_app) | [Website](https://nightly.app/)
 | Petra || [Twitter](https://twitter.com/PetraWallet) | [Website](https://petra.app/)
 | Pontem Network | [Github](https://github.com/pontem-network) | [Twitter](https://twitter.com/PontemNetwork) | [Website](https://pontem.network/)

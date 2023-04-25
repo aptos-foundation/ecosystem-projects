@@ -141,6 +141,7 @@ A collection of live projects within the Aptos ecosystem.
 ## NFT Tooling
 | Name | Github  | Twitter | Website |
 |------|---------|---------|---------|
+| Apto.id || [Twitter](https://twitter.com/apto_id) | [Website](https://apto.id/)
 | Blocto | [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
 | CandyMachine | [Github](https://github.com/candymachineapt) | [Twitter](https://twitter.com/candymachineapp) | [Website](https://candymachine.app/)
 | Indexer || [Twitter](https://twitter.com/indexer_xyz) | [Website](https://indexer.xyz/)
@@ -167,6 +168,7 @@ A collection of live projects within the Aptos ecosystem.
 ## Tooling
 | Name | Github  | Twitter | Website |
 |------|---------|---------|---------|
+| Apto.id || [Twitter](https://twitter.com/apto_id) | [Website](https://apto.id/)
 | Aptools || [Twitter](https://twitter.com/aptools_) | [Website](https://aptools.xyz/)
 | Aptools.io | [Github](https://github.com/Aptools) | [Twitter](https://twitter.com/AptoolsExplorer) | [Website](https://aptools.io/)
 | Aptos Dart | [Github](https://github.com/0xmove) | [Twitter](https://twitter.com/0xmovebuilder)

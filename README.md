@@ -116,6 +116,7 @@ A collection of live projects within the Aptos ecosystem.
 | Switchboard | [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 | ZettaBlock || [Twitter](https://twitter.com/ZettaBlockHQ) | [Website](https://www.zettablock.com/)
 | 4EVERLAND | [Github](https://github.com/4everland) | [Twitter](https://twitter.com/4everland_org) | [Website](https://www.4everland.org/)
+| Move Developers DAO | [Github](https://github.com/movedevelopersdao) | [Twitter](https://twitter.com/MoveBuilders) | [Website](https://movedevelopers.com/) |
 
 ## Launchpads
 | Name | Github  | Twitter | Website |
@@ -188,6 +189,7 @@ A collection of live projects within the Aptos ecosystem.
 | Streamflow | [Github](https://github.com/streamflow-finance) | [Twitter](https://twitter.com/Streamflow_fi) | [Website](https://streamflow.finance/)
 | SupraOracles || [Twitter](https://twitter.com/SupraOracles) | [Website](https://supraoracles.com/)
 | Switchboard | [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
+| Move Developers DAO | [Github](https://github.com/movedevelopersdao) | [Twitter](https://twitter.com/MoveBuilders) | [Website](https://movedevelopers.com/) |
 
 ## Wallets
 | Name | Github  | Twitter | Website |

@@ -80,6 +80,7 @@ A collection of live projects within the Aptos ecosystem.
 | AptoScan.xyz by 3NJOY Labs  |                                                | [Website](https://aptoscan.xyz)           |
 | AptoScan by EtherScan       |                                                | [Website](https://aptoscan.com/)          |
 | TraceMove by NodeReal       |                                                | [Website](https://tracemove.io)           |
+| NFTScan                     |                                                | [Website](https://aptos.nftscan.com/)     |
 
 ## Gaming
 | Name | Github  | Twitter | Website |
@@ -117,6 +118,7 @@ A collection of live projects within the Aptos ecosystem.
 | ZettaBlock || [Twitter](https://twitter.com/ZettaBlockHQ) | [Website](https://www.zettablock.com/)
 | 4EVERLAND | [Github](https://github.com/4everland) | [Twitter](https://twitter.com/4everland_org) | [Website](https://www.4everland.org/)
 | Move Developers DAO | [Github](https://github.com/movedevelopersdao) | [Twitter](https://twitter.com/MoveBuilders) | [Website](https://movedevelopers.com/) |
+| NFTScan | [Github](https://github.com/nftscan-official) | [Twitter](https://twitter.com/nftscan_com) | [Website](https://aptos.nftscan.com/) |
 
 ## Launchpads
 | Name | Github  | Twitter | Website |
@@ -156,6 +158,7 @@ A collection of live projects within the Aptos ecosystem.
 | Souffl3 || [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 | Topaz || [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
 | UniBazaar ||| [Website](https://ubz.aptpp.com/)
+| NFTScan |[Github](https://github.com/nftscan-official) | [Twitter](https://twitter.com/nftscan_com) | [Website](https://aptos.nftscan.com/) |
 
 ## Security
 | Name | Github  | Twitter | Website |

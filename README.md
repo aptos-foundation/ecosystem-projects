@@ -190,6 +190,7 @@ A collection of live projects within the Aptos ecosystem.
 | SupraOracles || [Twitter](https://twitter.com/SupraOracles) | [Website](https://supraoracles.com/)
 | Switchboard | [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 | Move Developers DAO | [Github](https://github.com/movedevelopersdao) | [Twitter](https://twitter.com/MoveBuilders) | [Website](https://movedevelopers.com/) |
+| Stakely Aptos Faucet || [Twitter](https://twitter.com/stakely_io) | [Website](https://stakely.io/en/faucet/aptos-apt)
 
 ## Wallets
 | Name | Github  | Twitter | Website |

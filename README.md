@@ -70,7 +70,6 @@ A collection of live projects within the Aptos ecosystem.
 | Tsunami Finance || [Twitter](https://twitter.com/TsunamiFinance_) | [Website](https://tsunami.finance/)
 | Umi | [Github](https://github.com/umi-ag) | [Twitter](https://twitter.com/umi_protocol) | [Website](https://umi.ag)
 | Wing Finance || [Twitter](https://twitter.com/Wing_Finance) | [Website](https://flash.wing.finance/aptos)
-| Kudo Money || [Github](https://github.com/kudo-money) | [Twitter](https://twitter.com/kudomoney) | [Website](https://kudo.money/) |
 
 ## Explorers
 | Name                        | Github                                         | Website                                   |
@@ -89,11 +88,11 @@ A collection of live projects within the Aptos ecosystem.
 | AptosReels || [Twitter](https://twitter.com/APToons_) | [Website](https://hello-world-aptoons.vercel.app/)
 | Byten || [Twitter](https://twitter.com/BytenOfficial) | [Website](https://byten.io/)
 | Drawshop Kingdom Reverse || [Twitter](https://twitter.com/DrawshopKingdom) | [Website](https://drawshop.io)
+| Kudo Money | [Github](https://github.com/kudo-money) | [Twitter](https://twitter.com/kudomoney) | [Website](https://www.ludopro.app/) |
 | METAPIXEL || [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
 | RollApt || [Twitter](https://twitter.com/rollapt) | [Website](https://rollapt.xyz/)
 | Werewolf vs Witch | [Github](https://github.com/werewolfandwitch/aptos_werewolfandwitch) | [Twitter](https://twitter.com/AWW_xyz) | [Website](https://werewolfandwitch.xyz/)
 | Super Athletes Club || [Twitter](https://twitter.com/sacnft_official) | [Website](https://sac-nft.com/)
-| Kudo Money || [Github](https://github.com/kudo-money) | [Twitter](https://twitter.com/kudomoney) | [Website](https://kudo.money/) |
 
 ## Infra
 | Name | Github  | Twitter | Website |

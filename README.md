@@ -107,6 +107,7 @@ A collection of live projects within the Aptos ecosystem.
 | Crust | [Github](https://github.com/crustio) | [Twitter](https://twitter.com/CrustNetwork) | [Website](https://crust.network/)
 | Indexer || [Twitter](https://twitter.com/indexer_xyz) | [Website](https://indexer.xyz/)
 | KYD Labs | [Github](https://github.com/kydlabs) | [Twitter](https://twitter.com/kydlabs) | [Website](https://kyd.to/NjbAOYiS)
+| Lava Network | [Github](https://github.com/lavanet) | [Twitter](https://twitter.com/lavanetxyz) | [Website](https://lavanet.xyz)
 | Mokshya Protocol | [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
 | Moonpay || [Twitter](https://twitter.com/moonpay) | [Website](https://www.moonpay.com/)
 | NodeReal | [Github](https://github.com/node-real) | [Twitter](https://twitter.com/Nodereal_io) | [Website](https://nodereal.io/)
@@ -132,6 +133,7 @@ A collection of live projects within the Aptos ecosystem.
 |------|---------|---------|---------|
 | BlueMove || [Twitter](https://twitter.com/BlueMove_OA) | [Website](https://bluemove.net/)
 | ForartSwap || [Twitter](https://twitter.com/forart_ai) | [Website](https://forart.ai)
+| Lava Network | [Github](https://github.com/lavanet) | [Twitter](https://twitter.com/lavanetxyz) | [Website](https://lavanet.xyz)
 | Metaspacecy || [Twitter](https://twitter.com/metaspacecy) | [Website](https://aptos.metaspacecy.com/)
 | Mojito Markets || [Twitter](https://twitter.com/MojitoMarkets) | [Website](https://mojitomarkets.exchange/)
 | Nodegen || [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)

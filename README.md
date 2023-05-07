@@ -66,7 +66,7 @@ A collection of live projects within the Aptos ecosystem.
 | Spectrum Protocol | [Github](https://github.com/spectrumprotocol) | [Twitter](https://twitter.com/SpecProtocol) | [Website](https://aptos.spec.finance/)
 | Starswap | [Github](https://github.com/Elements-Studio/starswap-core-aptos) | [Twitter](https://twitter.com/StarswapEN) | [Website](https://starswap.xyz/)
 | Superposition || [Twitter](https://twitter.com/SuperpositionFi) | [Website](https://www.superposition.finance/)
-| Thala Labs || [Twitter](https://twitter.com/ThalaLabs) | [Website](https://www.thalalabs.xyz/)
+| Thala Labs | [Github](https://github.com/ThalaLabs) | [Twitter](https://twitter.com/ThalaLabs) | [Website](https://www.thala.fi/)
 | Tortuga || [Twitter](https://twitter.com/TortugaFinance) | [Website](https://tortuga.finance/)
 | Tsunami Finance || [Twitter](https://twitter.com/TsunamiFinance_) | [Website](https://tsunami.finance/)
 | Umi | [Github](https://github.com/umi-ag) | [Twitter](https://twitter.com/umi_protocol) | [Website](https://umi.ag)
@@ -126,6 +126,7 @@ A collection of live projects within the Aptos ecosystem.
 | Meeiro || [Twitter](https://twitter.com/Meeiro_xyz) | [Website](https://meeiro.xyz/)
 | Nodegen || [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
 | Proton Sale | [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)
+| Thala Launch || [Twitter](https://twitter.com/ThalaLabs) | [Website](https://app.thala.fi/launchpad) |
 | Aptopad | [Github](https://github.com/Aptopad-io) | [Twitter](https://twitter.com/aptoapad_io) | [Website](https://aptopad.io/)
 
 ## Marketplaces

@@ -89,6 +89,7 @@ A collection of live projects within the Aptos ecosystem.
 | AptosReels || [Twitter](https://twitter.com/APToons_) | [Website](https://hello-world-aptoons.vercel.app/)
 | Byten || [Twitter](https://twitter.com/BytenOfficial) | [Website](https://byten.io/)
 | Drawshop Kingdom Reverse || [Twitter](https://twitter.com/DrawshopKingdom) | [Website](https://drawshop.io)
+| Kudo Money | [Github](https://github.com/kudo-money) | [Twitter](https://twitter.com/kudomoney) | [Website](https://www.ludopro.app/) |
 | METAPIXEL || [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
 | RollApt || [Twitter](https://twitter.com/rollapt) | [Website](https://rollapt.xyz/)
 | Ryoshi Tales || [Twitter](https://twitter.com/RyoshiTales) | [Website](https://ryoshitales.io)

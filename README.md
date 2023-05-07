@@ -210,6 +210,7 @@ A collection of live projects within the Aptos ecosystem.
 | Spacecy Wallet | [Github](https://github.com/SpacecyWallet) | [Twitter](https://twitter.com/SpacecyWallet) | [Website](https://spacecywallet.com/)
 | StarMask | [Github](https://github.com/starcoinorg/starmask-extension) || [Website](https://westar.io/project/#starmask)
 | Trust Wallet | [Github](https://github.com/trustwallet) | [Twitter](https://twitter.com/trustwallet) | [Website](https://trustwallet.com/)
+| Coin98 Wallet | [Github](https://github.com/coin98) | [Twitter](https://twitter.com/coin98_wallet) | [Website](https://coin98.com/wallet)
 
 
 ---

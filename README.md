@@ -6,6 +6,7 @@
 
 A collection of live projects within the Aptos ecosystem.
 
+- [**Aptos Ecosystem**](#aptos-ecosystem)
 - [Project Categories](#project-categories)
   - [Bridges](#bridges)
   - [DeFi](#defi)
@@ -13,13 +14,14 @@ A collection of live projects within the Aptos ecosystem.
   - [Gaming](#gaming)
   - [Infra](#infra)
   - [Launchpads](#launchpads)
-  - [Marketplace](#marketplaces)
+  - [Marketplaces](#marketplaces)
   - [NFT Tooling](#nft-tooling)
   - [Security](#security)
   - [Stablecoins](#stablecoins)
   - [Tooling](#tooling)
   - [Wallets](#wallets)
 - [Contribution Guidelines](#contribution-guidelines)
+  - [Updating your PR](#updating-your-pr)
 
 ---
 
@@ -185,6 +187,7 @@ A collection of live projects within the Aptos ecosystem.
 | AptStats | [Github](https://github.com/aptstats) | [Twitter](https://twitter.com/aptstats) | [Website](https://aptstats.xyz/)
 | Dialect | [Github](https://github.com/dialectlabs) | [Twitter](https://twitter.com/saydialect) | [Website](https://www.dialect.to/)
 | Hippo Labs | [Github](https://github.com/hippospace) | [Twitter](https://twitter.com/hippolabs__) | [Website](https://hippo.space/)
+| Namespace | [Github](https://github.com/raldblox/namespace) | [Twitter](https://twitter.com/zoocietyorg) | [Website](https://namespace.zoociety.org/)
 | Notifi | [Github](https://github.com/notifi-network) | [Twitter](https://twitter.com/NotifiNetwork) | [Website](https://notifi.network/)
 | Overmind | [Github](https://github.com/overmind-xyz) | [Twitter](https://twitter.com/overmind_xyz) | [Website](https://overmind.xyz)
 | Pyth Network | [Github](https://github.com/pyth-network) | [Twitter](https://twitter.com/PythNetwork) | [Website](https://pyth.network/)

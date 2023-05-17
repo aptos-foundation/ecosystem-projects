@@ -16,6 +16,7 @@ A collection of live projects within the Aptos ecosystem.
   - [Marketplace](#marketplaces)
   - [NFT Tooling](#nft-tooling)
   - [Security](#security)
+  - [Social](#social)
   - [Stablecoins](#stablecoins)
   - [Tooling](#tooling)
   - [Wallets](#wallets)

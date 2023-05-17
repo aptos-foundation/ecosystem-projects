@@ -166,6 +166,11 @@ A collection of live projects within the Aptos ecosystem.
 |------|---------|---------|---------|
 | OtterSec | [Github](https://github.com/otter-sec) | [Twitter](https://twitter.com/osec_io) | [Website](https://osec.io/)
 
+## Social
+| Name | Github  | Twitter | Website |
+|------|---------|---------|---------|
+| TowneSquare | [Github](https://github.com/TowneSquare) | [Twitter](https://twitter.com/townesquarexyz) | [Website](https://www.townesquare.xyz/)
+
 ## Stablecoins
 | Name | Github  | Twitter | Website |
 |------|---------|---------|---------|

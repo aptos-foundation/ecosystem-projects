@@ -56,6 +56,7 @@ A collection of live projects within the Aptos ecosystem.
 | Jujube Finance | [Github](https://github.com/jujubefinance) | [Twitter](https://twitter.com/JujubeFinance) | [Website](https://www.jujube.finance)
 | Kana Labs || [Twitter](https://twitter.com/kanalabs) | [Website](https://app.kanalabs.io/)
 | Koizumi | [Github](https://github.com/KoizumiAPT) | [Twitter](https://twitter.com/KoizumiAPT) | [Website](https://koizumi.io)
+| Merkle Trade | [Github](https://github.com/merkle-trade) | [Twitter](https://twitter.com/merkle_trade) | [Website](https://merkle.trade)
 | Mole | [Github](https://github.com/Mole-Fi) | [Twitter](https://twitter.com/moledefi) | [Website](https://mole.fi/)
 | PancakeSwap | [Github](https://github.com/pancakeswap/) | [Twitter](https://twitter.com/pancakeswap) | [Website](https://aptos.pancakeswap.finance/swap)
 | Patronus | [Github](https://github.com/patronusfi) | [Twitter](https://twitter.com/Patronus_Fi) | [Website](https://patronus.fi/)

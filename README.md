@@ -99,7 +99,7 @@ A collection of live projects within the Aptos ecosystem.
 ## Infra
 | Name | Github  | Twitter | Website |
 |------|---------|---------|---------|
-| AptosGateway | [Github](https://github.com/AptosGateway) | [Twitter](https://twitter.com/AptosGateway) | [Website](https://www.aptgateway.xyz/)
+| AsetPay | [Github](https://github.com/AsetPay) | [Twitter](https://twitter.com/AsetPay) | [Website](https://www.asetpay.org)
 | Blast API by Bware Labs | [Github](https://github.com/bwarelabs) | [Twitter](https://twitter.com/blastapi) | [Website](https://blastapi.io/)
 | BlockEden | [Github](https://github.com/blockedenhq) | [Twitter](https://twitter.com/BlockEdenHQ) | [Website](https://blockeden.xyz/)
 | BlockPI Network | [Github](https://github.com/BlockPILabs) | [Twitter](https://twitter.com/RealBlockPI) | [Website](https://blockpi.io/)

@@ -81,6 +81,7 @@ A collection of live projects within the Aptos ecosystem.
 | Aptos Explorer by AptosLabs |[Github](https://github.com/aptos-labs/explorer)|[Website](https://explorer.aptoslabs.com/) |
 | AptoScan.xyz by 3NJOY Labs  |                                                | [Website](https://aptoscan.xyz)           |
 | AptoScan by EtherScan       |                                                | [Website](https://aptoscan.com/)          |
+| NFTScan                     |                                                | [Website](https://aptos.nftscan.com/)     |
 | TraceMove by NodeReal       |                                                | [Website](https://tracemove.io)           |
 
 ## Gaming
@@ -113,6 +114,7 @@ A collection of live projects within the Aptos ecosystem.
 | Lava Network | [Github](https://github.com/lavanet) | [Twitter](https://twitter.com/lavanetxyz) | [Website](https://lavanet.xyz)
 | Mokshya Protocol | [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
 | Moonpay || [Twitter](https://twitter.com/moonpay) | [Website](https://www.moonpay.com/)
+| NFTScan | [Github](https://github.com/nftscan-official) | [Twitter](https://twitter.com/nftscan_com) | [Website](https://aptos.nftscan.com/) |
 | NodeReal | [Github](https://github.com/node-real) | [Twitter](https://twitter.com/Nodereal_io) | [Website](https://nodereal.io/)
 | Overmind | [Github](https://github.com/overmind-xyz) | [Twitter](https://twitter.com/overmind_xyz) | [Website](https://overmind.xyz)
 | Sentio | [Github](https://github.com/sentioxyz) | [Twitter](https://twitter.com/sentioxyz) | [Website](https://sentio.xyz/)
@@ -158,6 +160,7 @@ A collection of live projects within the Aptos ecosystem.
 | KYD Labs | [Github](https://github.com/kydlabs) | [Twitter](https://twitter.com/kydlabs) | [Website](https://kyd.to/NjbAOYiS)
 | Livepeer | [Github](https://github.com/livepeer) | [Twitter](https://twitter.com/Livepeer) | [Website](https://livepeer.org/)
 | Mokshya Protocol | [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/MokshyaProtocol) | [Website](https://mokshya.io/)
+| NFTScan |[Github](https://github.com/nftscan-official) | [Twitter](https://twitter.com/nftscan_com) | [Website](https://aptos.nftscan.com/) |
 | SeaShrine || [Twitter](https://twitter.com/SeaShrineNFT) | [Website](https://seashrine.io)
 | Souffl3 || [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 | Topaz || [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)

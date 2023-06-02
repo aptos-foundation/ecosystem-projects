@@ -129,6 +129,7 @@ A collection of live projects within the Aptos ecosystem.
 | Name | Github  | Twitter | Website |
 |------|---------|---------|---------|
 | Aptoslaunch || [Twitter](https://twitter.com/aptoslaunchIO) | [Website](https://aptoslaunch.io/)
+| Cryplex     | [Github](https://github.com/cryplexio) | [Twitter](https://twitter.com/Cryplex_IO) | [Website](https://cryplex.io/aptos)
 | Meeiro || [Twitter](https://twitter.com/Meeiro_xyz) | [Website](https://meeiro.xyz/)
 | Nodegen || [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
 | Proton Sale | [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)
@@ -173,8 +174,9 @@ A collection of live projects within the Aptos ecosystem.
 | OtterSec | [Github](https://github.com/otter-sec) | [Twitter](https://twitter.com/osec_io) | [Website](https://osec.io/)
 
 ## Social
-| Name | Github  | Twitter | Website |
-|------|---------|---------|---------|
+| Name        | Github  | Twitter | Website |
+|-------------|---------|---------|---------|
+| Cryplex     | [Github](https://github.com/cryplexio) | [Twitter](https://twitter.com/Cryplex_IO) | [Website](https://cryplex.io/aptos)
 | TowneSquare | [Github](https://github.com/TowneSquare) | [Twitter](https://twitter.com/townesquarexyz) | [Website](https://www.townesquare.xyz/)
 
 ## Stablecoins

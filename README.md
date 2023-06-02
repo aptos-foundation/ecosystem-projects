@@ -123,11 +123,13 @@ A collection of live projects within the Aptos ecosystem.
 | ZettaBlock || [Twitter](https://twitter.com/ZettaBlockHQ) | [Website](https://www.zettablock.com/)
 | 4EVERLAND | [Github](https://github.com/4everland) | [Twitter](https://twitter.com/4everland_org) | [Website](https://www.4everland.org/)
 | Move Developers DAO | [Github](https://github.com/movedevelopersdao) | [Twitter](https://twitter.com/MoveBuilders) | [Website](https://movedevelopers.com/) |
+| Wallet SDK by Everstake | [Github](https://github.com/everstake/wallet-sdk) | [Twitter](https://twitter.com/everstake_pool) | [Website](https://wallet-sdk.everstake.one)
 
 ## Launchpads
 | Name | Github  | Twitter | Website |
 |------|---------|---------|---------|
 | Aptoslaunch || [Twitter](https://twitter.com/aptoslaunchIO) | [Website](https://aptoslaunch.io/)
+| Cryplex     | [Github](https://github.com/cryplexio) | [Twitter](https://twitter.com/Cryplex_IO) | [Website](https://cryplex.io/aptos)
 | Meeiro || [Twitter](https://twitter.com/Meeiro_xyz) | [Website](https://meeiro.xyz/)
 | Nodegen || [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
 | Proton Sale | [Github](https://github.com/0xmodule/proton-sale) | [Twitter](https://twitter.com/protonsale_apt) | [Website](https://protonsale.io/)
@@ -172,8 +174,9 @@ A collection of live projects within the Aptos ecosystem.
 | OtterSec | [Github](https://github.com/otter-sec) | [Twitter](https://twitter.com/osec_io) | [Website](https://osec.io/)
 
 ## Social
-| Name | Github  | Twitter | Website |
-|------|---------|---------|---------|
+| Name        | Github  | Twitter | Website |
+|-------------|---------|---------|---------|
+| Cryplex     | [Github](https://github.com/cryplexio) | [Twitter](https://twitter.com/Cryplex_IO) | [Website](https://cryplex.io/aptos)
 | TowneSquare | [Github](https://github.com/TowneSquare) | [Twitter](https://twitter.com/townesquarexyz) | [Website](https://www.townesquare.xyz/)
 
 ## Stablecoins
@@ -200,10 +203,12 @@ A collection of live projects within the Aptos ecosystem.
 | Pyth Network | [Github](https://github.com/pyth-network) | [Twitter](https://twitter.com/PythNetwork) | [Website](https://pyth.network/)
 | Sentio XYZ | [Github](https://github.com/sentioxyz) | [Twitter](https://twitter.com/sentioxyz) | [Website](https://sentio.xyz/)
 | SonarWatch | [Github](https://github.com/sonarwatch) | [Twitter](https://twitter.com/Sonarwatch) | [Website](https://aptos.sonar.watch/)
+| Stakely Aptos Faucet || [Twitter](https://twitter.com/stakely_io) | [Website](https://stakely.io/en/faucet/aptos-apt)
 | Streamflow | [Github](https://github.com/streamflow-finance) | [Twitter](https://twitter.com/Streamflow_fi) | [Website](https://streamflow.finance/)
 | SupraOracles || [Twitter](https://twitter.com/SupraOracles) | [Website](https://supraoracles.com/)
 | Switchboard | [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 | Move Developers DAO | [Github](https://github.com/movedevelopersdao) | [Twitter](https://twitter.com/MoveBuilders) | [Website](https://movedevelopers.com/) |
+| Wallet SDK by Everstake | [Github](https://github.com/everstake/wallet-sdk) | [Twitter](https://twitter.com/everstake_pool) | [Website](https://wallet-sdk.everstake.one)
 
 ## Wallets
 | Name | Github  | Twitter | Website |

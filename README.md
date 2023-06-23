@@ -149,6 +149,7 @@ A collection of live projects within the Aptos ecosystem.
 | Souffl3 || [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 | Topaz || [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
 | UniBazaar ||| [Website](https://ubz.aptpp.com/)
+| Wapal | [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/wapal_official) | [Website](https://wapal.io/)
 
 ## NFT Tooling
 | Name | Github  | Twitter | Website |
@@ -166,6 +167,7 @@ A collection of live projects within the Aptos ecosystem.
 | Souffl3 || [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 | Topaz || [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
 | UniBazaar ||| [Website](https://ubz.aptpp.com/)
+| Wapal | [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/wapal_official) | [Website](https://wapal.io/)
 
 ## Security
 | Name | Github  | Twitter | Website |

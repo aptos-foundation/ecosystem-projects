@@ -53,6 +53,7 @@ A collection of live projects within the Aptos ecosystem.
 | Ferum | [Github](https://github.com/ferum-dex/) | [Twitter](https://twitter.com/ferumxyz) | [Website](https://www.ferum.xyz/)
 | Foil Labs || [Twitter](https://twitter.com/foil_labs) | [Website](https://foil.so/)
 | Forbitswap || [Twitter](https://twitter.com/forbitswap) | [Website](https://forbitswap.com/)
+| Hamsterpocket | [Github](https://github.com/CaviesLabs) | [Twitter](https://twitter.com/CaviesLabs) | [Website](https://pocket.hamsterbox.xyz)
 | HoustonSwap || [Twitter](https://twitter.com/Houston_swap) | [Website](https://houstonswap.io/)
 | Jujube Finance | [Github](https://github.com/jujubefinance) | [Twitter](https://twitter.com/JujubeFinance) | [Website](https://www.jujube.finance)
 | Kana Labs || [Twitter](https://twitter.com/kanalabs) | [Website](https://app.kanalabs.io/)

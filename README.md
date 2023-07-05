@@ -34,6 +34,7 @@ A collection of live projects within the Aptos ecosystem.
 | LayerZero | [Github](https://github.com/LayerZero-Labs/LayerZero-Aptos-Contract) | [Twitter](https://twitter.com/layerzero_labs) | [Website](https://layerzero.network/)
 | Multichain | [Github](https://github.com/anyswap) | [Twitter](https://twitter.com/MultichainOrg) | [Website](https://multichain.org/)
 | Wormhole | [Github](https://github.com/wormhole-foundation/wormhole) | [Twitter](https://twitter.com/wormholecrypto) | [Website](https://wormhole.com/)
+| Mover | [Github](https://github.com/mov3r) | [Twitter](https://twitter.com/moverxyz) | [Website](https://mov3r.xyz/)
 
 ## DeFi
 | Name | Github  | Twitter | Website |

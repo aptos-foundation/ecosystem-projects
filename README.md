@@ -83,6 +83,7 @@ A collection of live projects within the Aptos ecosystem.
 | AptoScan by EtherScan       |                                                | [Website](https://aptoscan.com/)          |
 | NFTScan                     |                                                | [Website](https://aptos.nftscan.com/)     |
 | TraceMove by NodeReal       |                                                | [Website](https://tracemove.io)           |
+| Aptscan.ai by Solscan       |[Github](https://github.com/aptscan-ai)         | [Website](https://aptscan.ai)           |
 
 ## Gaming
 | Name | Github  | Twitter | Website |

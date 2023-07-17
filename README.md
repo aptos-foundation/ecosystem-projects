@@ -85,7 +85,6 @@ A collection of live projects within the Aptos ecosystem.
 | NFTScan                     |                                                | [Website](https://aptos.nftscan.com/)     |
 | TraceMove by NodeReal       |                                                | [Website](https://tracemove.io)           |
 
-
 ## Gaming
 | Name | Github  | Twitter | Website |
 |------|---------|---------|---------|

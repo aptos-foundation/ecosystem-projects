@@ -81,6 +81,7 @@ A collection of live projects within the Aptos ecosystem.
 | Aptos Explorer by AptosLabs |[Github](https://github.com/aptos-labs/explorer)|[Website](https://explorer.aptoslabs.com/) |
 | AptoScan.xyz by 3NJOY Labs  |                                                | [Website](https://aptoscan.xyz)           |
 | AptoScan by EtherScan       |                                                | [Website](https://aptoscan.com/)          |
+| Aptscan.ai by Solscan       |[Github](https://github.com/aptscan-ai)         | [Website](https://aptscan.ai)             |
 | NFTScan                     |                                                | [Website](https://aptos.nftscan.com/)     |
 | TraceMove by NodeReal       |                                                | [Website](https://tracemove.io)           |
 

@@ -77,7 +77,7 @@ A collection of live projects within the Aptos ecosystem.
 ## Explorers
 | Name                        | Github                                         | Website                                   |
 |-----------------------------|------------------------------------------------|-------------------------------------------|
-| Apscan by Apscan            |                                                | [Website](https://apscan.io/)             |
+| Apscan by Apscan            |[Github](https://github.com/Apscan)             | [Website](https://apscan.io/)             |
 | Aptos Explorer by AptosLabs |[Github](https://github.com/aptos-labs/explorer)|[Website](https://explorer.aptoslabs.com/) |
 | AptoScan.xyz by 3NJOY Labs  |                                                | [Website](https://aptoscan.xyz)           |
 | AptoScan by EtherScan       |                                                | [Website](https://aptoscan.com/)          |

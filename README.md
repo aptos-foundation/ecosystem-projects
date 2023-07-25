@@ -72,6 +72,7 @@ A collection of live projects within the Aptos ecosystem.
 | Tsunami Finance || [Twitter](https://twitter.com/TsunamiFinance_) | [Website](https://tsunami.finance/)
 | Umi | [Github](https://github.com/umi-ag) | [Twitter](https://twitter.com/umi_protocol) | [Website](https://umi.ag)
 | Wing Finance || [Twitter](https://twitter.com/Wing_Finance) | [Website](https://flash.wing.finance/aptos)
+| RocketX | [Github](https://github.com/rocketx-labs) | [Twitter](https://twitter.com/RocketXexchange) | [Website](https://www.rocketx.exchange/)
 
 ## Explorers
 | Name                        | Github                                         | Website                                   |

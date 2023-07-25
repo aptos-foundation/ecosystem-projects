@@ -61,6 +61,7 @@ A collection of live projects within the Aptos ecosystem.
 | PancakeSwap | [Github](https://github.com/pancakeswap/) | [Twitter](https://twitter.com/pancakeswap) | [Website](https://aptos.pancakeswap.finance/swap)
 | Patronus | [Github](https://github.com/patronusfi) | [Twitter](https://twitter.com/Patronus_Fi) | [Website](https://patronus.fi/)
 | Pontem Network | [Github](https://github.com/pontem-network) | [Twitter](https://twitter.com/PontemNetwork) | [Website](https://pontem.network/)
+| RocketX | [Github](https://github.com/rocketx-labs) | [Twitter](https://twitter.com/RocketXexchange) | [Website](https://www.rocketx.exchange/)
 | Seam Money | [Github](https://github.com/seammoney/) | [Twitter](https://twitter.com/SeamMoney) | [Website](https://seam.money/)
 | Snotra | [Github](https://github.com/SnotraTech) | [Twitter](https://twitter.com/SnotraQ) | [Website](https://snotra.tech)
 | Sokel || [Twitter](https://twitter.com/SokelFinance) | [Website](https://www.sokel.fi/)
@@ -72,7 +73,6 @@ A collection of live projects within the Aptos ecosystem.
 | Tsunami Finance || [Twitter](https://twitter.com/TsunamiFinance_) | [Website](https://tsunami.finance/)
 | Umi | [Github](https://github.com/umi-ag) | [Twitter](https://twitter.com/umi_protocol) | [Website](https://umi.ag)
 | Wing Finance || [Twitter](https://twitter.com/Wing_Finance) | [Website](https://flash.wing.finance/aptos)
-| RocketX | [Github](https://github.com/rocketx-labs) | [Twitter](https://twitter.com/RocketXexchange) | [Website](https://www.rocketx.exchange/)
 
 ## Explorers
 | Name                        | Github                                         | Website                                   |

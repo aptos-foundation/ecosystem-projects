@@ -215,6 +215,7 @@ A collection of live projects within the Aptos ecosystem.
 | Name | Github  | Twitter | Website |
 |------|---------|---------|---------|
 | Blocto | [Github](https://github.com/portto) | [Twitter](https://twitter.com/BloctoApp) | [Website](https://token.blocto.app/)
+| Coin98 Wallet | [Github](https://github.com/coin98) | [Twitter](https://twitter.com/coin98_wallet) | [Website](https://coin98.com/wallet)
 | EVO Wallet || [Twitter](https://twitter.com/EvoWalletAptos) | [Website](https://evowallet.app/)
 | Fewcha | [Github](https://github.com/fewcha-wallet) | [Twitter](https://twitter.com/fewchawallet) | [Website](https://fewcha.app/)
 | Fletch ||| [Website](https://fletchwallet.io/)
@@ -222,7 +223,7 @@ A collection of live projects within the Aptos ecosystem.
 | Hive Wallet || [Twitter](https://twitter.com/hivewithme) | [Website](https://www.hivewithme.xyz/)
 | Martian || [Twitter](https://twitter.com/martian_wallet) | [Website](https://martianwallet.xyz/)
 | Math Wallet | [Github](https://github.com/mathwallet) | [Twitter](https://twitter.com/Mathwallet) | [Website](https://mathwallet.org/)
-| Momentum Safe || [Twitter](https://twitter.com/MomentumSafe) | [Website](https://m-safe.io/)
+| MSafe || [Twitter](https://twitter.com/MomentumSafe) | [Website](https://m-safe.io/)
 | Mofa | [Github](https://github.com/mofalabs) | [Twitter](https://twitter.com/mofalabs) | [Website](https://mofalabs.com/)
 | Nightly | [Github](https://github.com/nightly-labs) | [Twitter](https://twitter.com/Nightly_app) | [Website](https://nightly.app/)
 | Petra || [Twitter](https://twitter.com/PetraWallet) | [Website](https://petra.app/)
@@ -231,7 +232,7 @@ A collection of live projects within the Aptos ecosystem.
 | Spacecy Wallet | [Github](https://github.com/SpacecyWallet) | [Twitter](https://twitter.com/SpacecyWallet) | [Website](https://spacecywallet.com/)
 | StarMask | [Github](https://github.com/starcoinorg/starmask-extension) || [Website](https://westar.io/project/#starmask)
 | Trust Wallet | [Github](https://github.com/trustwallet) | [Twitter](https://twitter.com/trustwallet) | [Website](https://trustwallet.com/)
-| Coin98 Wallet | [Github](https://github.com/coin98) | [Twitter](https://twitter.com/coin98_wallet) | [Website](https://coin98.com/wallet)
+
 
 
 ---

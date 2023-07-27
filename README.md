@@ -33,7 +33,6 @@ A collection of live projects within the Aptos ecosystem.
 | Celer || [Twitter](https://twitter.com/CelerNetwork) | [Website](https://www.celer.network/)
 | LayerZero | [Github](https://github.com/LayerZero-Labs/LayerZero-Aptos-Contract) | [Twitter](https://twitter.com/layerzero_labs) | [Website](https://layerzero.network/)
 | Mover | [Github](https://github.com/mov3r) | [Twitter](https://twitter.com/moverxyz) | [Website](https://mov3r.xyz/)
-| Multichain | [Github](https://github.com/anyswap) | [Twitter](https://twitter.com/MultichainOrg) | [Website](https://multichain.org/)
 | Wormhole | [Github](https://github.com/wormhole-foundation/wormhole) | [Twitter](https://twitter.com/wormholecrypto) | [Website](https://wormhole.com/)
 
 ## DeFi
@@ -82,6 +81,7 @@ A collection of live projects within the Aptos ecosystem.
 | Aptos Explorer by AptosLabs |[Github](https://github.com/aptos-labs/explorer)|[Website](https://explorer.aptoslabs.com/) |
 | AptoScan.xyz by 3NJOY Labs  |                                                | [Website](https://aptoscan.xyz)           |
 | AptoScan by EtherScan       |                                                | [Website](https://aptoscan.com/)          |
+| Aptscan.ai by Solscan       |[Github](https://github.com/aptscan-ai)         | [Website](https://aptscan.ai)             |
 | NFTScan                     |                                                | [Website](https://aptos.nftscan.com/)     |
 | TraceMove by NodeReal       |                                                | [Website](https://tracemove.io)           |
 
@@ -150,6 +150,7 @@ A collection of live projects within the Aptos ecosystem.
 | Souffl3 || [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 | Topaz || [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
 | UniBazaar ||| [Website](https://ubz.aptpp.com/)
+| Wapal | [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/wapal_official) | [Website](https://wapal.io/)
 
 ## NFT Tooling
 | Name | Github  | Twitter | Website |
@@ -167,6 +168,7 @@ A collection of live projects within the Aptos ecosystem.
 | Souffl3 || [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 | Topaz || [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
 | UniBazaar ||| [Website](https://ubz.aptpp.com/)
+| Wapal | [Github](https://github.com/mokshyaprotocol) | [Twitter](https://twitter.com/wapal_official) | [Website](https://wapal.io/)
 
 ## Security
 | Name | Github  | Twitter | Website |

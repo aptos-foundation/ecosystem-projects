@@ -30,7 +30,7 @@ A collection of live projects within the Aptos ecosystem.
 | Name | Github  | Twitter | Website |
 |------|---------|---------|---------|
 | Axelar | [Github](https://github.com/axelarnetwork) | [Twitter](https://twitter.com/axelarcore) | [Website](https://axelar.network/)
-| Celer || [Twitter](https://twitter.com/CelerNetwork) | [Website](https://www.celer.network/)
+| Celer | [Github](https://github.com/celer-network) | [Twitter](https://twitter.com/CelerNetwork) | [Website](https://www.celer.network/)
 | LayerZero | [Github](https://github.com/LayerZero-Labs/LayerZero-Aptos-Contract) | [Twitter](https://twitter.com/layerzero_labs) | [Website](https://layerzero.network/)
 | Mover | [Github](https://github.com/mov3r) | [Twitter](https://twitter.com/moverxyz) | [Website](https://mov3r.xyz/)
 | Wormhole | [Github](https://github.com/wormhole-foundation/wormhole) | [Twitter](https://twitter.com/wormholecrypto) | [Website](https://wormhole.com/)
@@ -77,7 +77,7 @@ A collection of live projects within the Aptos ecosystem.
 ## Explorers
 | Name                        | Github                                         | Website                                   |
 |-----------------------------|------------------------------------------------|-------------------------------------------|
-| Apscan by Apscan            |                                                | [Website](https://apscan.io/)             |
+| Apscan by Apscan            |[Github](https://github.com/Apscan)             | [Website](https://apscan.io/)             |
 | Aptos Explorer by AptosLabs |[Github](https://github.com/aptos-labs/explorer)|[Website](https://explorer.aptoslabs.com/) |
 | AptoScan.xyz by 3NJOY Labs  |                                                | [Website](https://aptoscan.xyz)           |
 | AptoScan by EtherScan       |                                                | [Website](https://aptoscan.com/)          |
@@ -121,7 +121,7 @@ A collection of live projects within the Aptos ecosystem.
 | Sentio | [Github](https://github.com/sentioxyz) | [Twitter](https://twitter.com/sentioxyz) | [Website](https://sentio.xyz/)
 | Sonarverse ||| [Website](https://www.sonarverse.com/)
 | Switchboard | [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
-| ZettaBlock || [Twitter](https://twitter.com/ZettaBlockHQ) | [Website](https://www.zettablock.com/)
+| ZettaBlock |[Github](https://github.com/Zettablock) | [Twitter](https://twitter.com/ZettaBlockHQ) | [Website](https://www.zettablock.com/)
 | 4EVERLAND | [Github](https://github.com/4everland) | [Twitter](https://twitter.com/4everland_org) | [Website](https://www.4everland.org/)
 | Move Developers DAO | [Github](https://github.com/movedevelopersdao) | [Twitter](https://twitter.com/MoveBuilders) | [Website](https://movedevelopers.com/) |
 | Wallet SDK by Everstake | [Github](https://github.com/everstake/wallet-sdk) | [Twitter](https://twitter.com/everstake_pool) | [Website](https://wallet-sdk.everstake.one)

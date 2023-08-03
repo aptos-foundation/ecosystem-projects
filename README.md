@@ -142,7 +142,6 @@ A collection of live projects within the Aptos ecosystem.
 | ForartSwap || [Twitter](https://twitter.com/forart_ai) | [Website](https://forart.ai)
 | Lava Network | [Github](https://github.com/lavanet) | [Twitter](https://twitter.com/lavanetxyz) | [Website](https://lavanet.xyz)
 | Metaspacecy || [Twitter](https://twitter.com/metaspacecy) | [Website](https://aptos.metaspacecy.com/)
-| Mojito Markets || [Twitter](https://twitter.com/MojitoMarkets) | [Website](https://mojitomarkets.exchange/)
 | Nodegen || [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
 | Nutrios || [Twitter](https://twitter.com/nutriosProject) | [Website](https://www.nutrios.co/)
 | SeaShrine || [Twitter](https://twitter.com/SeaShrineNFT) | [Website](https://seashrine.io)

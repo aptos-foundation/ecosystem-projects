@@ -143,7 +143,7 @@ A collection of live projects within the Aptos ecosystem.
 | Lava Network | [Github](https://github.com/lavanet) | [Twitter](https://twitter.com/lavanetxyz) | [Website](https://lavanet.xyz)
 | Metaspacecy || [Twitter](https://twitter.com/metaspacecy) | [Website](https://aptos.metaspacecy.com/)
 | Nodegen || [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
-| Nutrios || [Twitter](https://twitter.com/nutriosProject) | [Website](https://www.nutrios.co/)
+| Nutrios |[Github](https://github.com/nutrios-co) | [Twitter](https://twitter.com/NutriosProtocol) | [Website](https://www.nutrios.co/)
 | SeaShrine || [Twitter](https://twitter.com/SeaShrineNFT) | [Website](https://seashrine.io)
 | Souffl3 || [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 | Topaz || [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)

@@ -228,7 +228,7 @@ A collection of live projects within the Aptos ecosystem.
 | Pontem Network | [Github](https://github.com/pontem-network) | [Twitter](https://twitter.com/PontemNetwork) | [Website](https://pontem.network/)
 | Rise Wallet || [Twitter](https://twitter.com/rise_wallet) | [Website](https://risewallet.io/)
 | Spacecy Wallet | [Github](https://github.com/SpacecyWallet) | [Twitter](https://twitter.com/SpacecyWallet) | [Website](https://spacecywallet.com/)
-| StarMask | [Github](https://github.com/starcoinorg/starmask-extension) || [Website](https://westar.io/project/#starmask)
+| StarMask | [Github](https://github.com/starcoinorg/starmask-extension) |[Twitter](https://twitter.com/StarcoinSTC)| [Website](https://westar.io/project/#starmask)
 | Trust Wallet | [Github](https://github.com/trustwallet) | [Twitter](https://twitter.com/trustwallet) | [Website](https://trustwallet.com/)
 
 

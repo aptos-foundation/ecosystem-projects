@@ -232,7 +232,7 @@ A collection of live projects within the Aptos ecosystem.
 | Spacecy Wallet | [Github](https://github.com/SpacecyWallet) | [Twitter](https://twitter.com/SpacecyWallet) | [Website](https://spacecywallet.com/)
 | StarMask | [Github](https://github.com/starcoinorg/starmask-extension) || [Website](https://westar.io/project/#starmask)
 | Trust Wallet | [Github](https://github.com/trustwallet) | [Twitter](https://twitter.com/trustwallet) | [Website](https://trustwallet.com/)
-
+| Gem Wallet | [Github](https://github.com/gemwallet) | [Twitter](https://twitter.com/gemwalletapp) | [Website](https://gemwallet.com/)
 
 
 ---

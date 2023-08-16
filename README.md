@@ -174,6 +174,7 @@ A collection of live projects within the Aptos ecosystem.
 | Name | Github  | Twitter | Website |
 |------|---------|---------|---------|
 | OtterSec | [Github](https://github.com/otter-sec) | [Twitter](https://twitter.com/osec_io) | [Website](https://osec.io/)
+| Zellic | [Github](https://github.com/Zellic) | [Twitter](https://twitter.com/zellic_io) | [Website](https://zellic.io/)
 
 ## Social
 | Name | Github  | Twitter | Website |

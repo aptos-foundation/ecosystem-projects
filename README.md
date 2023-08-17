@@ -95,7 +95,6 @@ A collection of live projects within the Aptos ecosystem.
 | Drawshop Kingdom Reverse || [Twitter](https://twitter.com/DrawshopKingdom) | [Website](https://drawshop.io)
 | Kudo Money | [Github](https://github.com/kudo-money) | [Twitter](https://twitter.com/kudomoney) | [Website](https://www.ludopro.app/) |
 | METAPIXEL || [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
-| RollApt || [Twitter](https://twitter.com/rollapt) | [Website](https://rollapt.xyz/)
 | Ryoshi Tales || [Twitter](https://twitter.com/RyoshiTales) | [Website](https://ryoshitales.io)
 | Werewolf vs Witch | [Github](https://github.com/werewolfandwitch/aptos_werewolfandwitch) | [Twitter](https://twitter.com/AWW_xyz) | [Website](https://werewolfandwitch.xyz/)
 | Super Athletes Club || [Twitter](https://twitter.com/sacnft_official) | [Website](https://sac-nft.com/)
@@ -143,9 +142,8 @@ A collection of live projects within the Aptos ecosystem.
 | ForartSwap || [Twitter](https://twitter.com/forart_ai) | [Website](https://forart.ai)
 | Lava Network | [Github](https://github.com/lavanet) | [Twitter](https://twitter.com/lavanetxyz) | [Website](https://lavanet.xyz)
 | Metaspacecy || [Twitter](https://twitter.com/metaspacecy) | [Website](https://aptos.metaspacecy.com/)
-| Mojito Markets || [Twitter](https://twitter.com/MojitoMarkets) | [Website](https://mojitomarkets.exchange/)
 | Nodegen || [Twitter](https://twitter.com/NODEGEN_xyz) | [Website](https://nodegen.xyz/)
-| Nutrios || [Twitter](https://twitter.com/nutriosProject) | [Website](https://www.nutrios.co/)
+| Nutrios |[Github](https://github.com/nutrios-co) | [Twitter](https://twitter.com/NutriosProtocol) | [Website](https://www.nutrios.co/)
 | SeaShrine || [Twitter](https://twitter.com/SeaShrineNFT) | [Website](https://seashrine.io)
 | Souffl3 || [Twitter](https://twitter.com/nft_souffl3) | [Website](https://souffl3.com/)
 | Topaz || [Twitter](https://mobile.twitter.com/topazmarket) | [Website](https://www.topaz.so/)
@@ -231,7 +229,7 @@ A collection of live projects within the Aptos ecosystem.
 | Pontem Network | [Github](https://github.com/pontem-network) | [Twitter](https://twitter.com/PontemNetwork) | [Website](https://pontem.network/)
 | Rise Wallet || [Twitter](https://twitter.com/rise_wallet) | [Website](https://risewallet.io/)
 | Spacecy Wallet | [Github](https://github.com/SpacecyWallet) | [Twitter](https://twitter.com/SpacecyWallet) | [Website](https://spacecywallet.com/)
-| StarMask | [Github](https://github.com/starcoinorg/starmask-extension) || [Website](https://westar.io/project/#starmask)
+| StarMask | [Github](https://github.com/starcoinorg/starmask-extension) |[Twitter](https://twitter.com/StarcoinSTC)| [Website](https://westar.io/project/#starmask)
 | Trust Wallet | [Github](https://github.com/trustwallet) | [Twitter](https://twitter.com/trustwallet) | [Website](https://trustwallet.com/)
 
 

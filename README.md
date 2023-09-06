@@ -36,7 +36,6 @@ A collection of live projects within the Aptos ecosystem.
 | Mover | [Github](https://github.com/mov3r) | [Twitter](https://twitter.com/moverxyz) | [Website](https://mov3r.xyz/)
 | Wormhole | [Github](https://github.com/wormhole-foundation/wormhole) | [Twitter](https://twitter.com/wormholecrypto) | [Website](https://wormhole.com/)
 
-
 ## DeFi
 | Name | Github  | Twitter | Website |
 |------|---------|---------|---------|

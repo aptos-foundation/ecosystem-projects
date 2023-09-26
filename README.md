@@ -219,6 +219,7 @@ A collection of live projects within the Aptos ecosystem.
 | EVO Wallet || [Twitter](https://twitter.com/EvoWalletAptos) | [Website](https://evowallet.app/)
 | Fewcha | [Github](https://github.com/fewcha-wallet) | [Twitter](https://twitter.com/fewchawallet) | [Website](https://fewcha.app/)
 | Fletch ||| [Website](https://fletchwallet.io/)
+| Flipper | [Github](https://github.com/flipperplatform) | [Twitter](https://twitter.com/flipper) | [Website](https://flipper.org/)
 | FoxWallet | [Github](https://github.com/foxwallet) | [Twitter](https://twitter.com/FoxWallet) | [Website](https://foxwallet.com/)
 | Gem Wallet | [Github](https://github.com/gemwallet) | [Twitter](https://twitter.com/gemwalletapp) | [Website](https://gemwallet.com/)
 | Hive Wallet || [Twitter](https://twitter.com/hivewithme) | [Website](https://www.hivewithme.xyz/)

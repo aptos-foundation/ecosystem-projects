@@ -119,6 +119,7 @@ A collection of live projects within the Aptos ecosystem.
 | Overmind | [Github](https://github.com/overmind-xyz) | [Twitter](https://twitter.com/overmind_xyz) | [Website](https://overmind.xyz)
 | Sentio | [Github](https://github.com/sentioxyz) | [Twitter](https://twitter.com/sentioxyz) | [Website](https://sentio.xyz/)
 | Sonarverse ||| [Website](https://www.sonarverse.com/)
+| Spheron Network| [Github](https://github.com/spheronFdn) | [Twitter](https://twitter.com/SpheronFDN) | [Website](https://spheron.network/)
 | Switchboard | [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 | ZettaBlock |[Github](https://github.com/Zettablock) | [Twitter](https://twitter.com/ZettaBlockHQ) | [Website](https://www.zettablock.com/)
 | 4EVERLAND | [Github](https://github.com/4everland) | [Twitter](https://twitter.com/4everland_org) | [Website](https://www.4everland.org/)

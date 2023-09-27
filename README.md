@@ -32,6 +32,7 @@ A collection of live projects within the Aptos ecosystem.
 | Axelar | [Github](https://github.com/axelarnetwork) | [Twitter](https://twitter.com/axelarcore) | [Website](https://axelar.network/)
 | Celer | [Github](https://github.com/celer-network) | [Twitter](https://twitter.com/CelerNetwork) | [Website](https://www.celer.network/)
 | LayerZero | [Github](https://github.com/LayerZero-Labs/LayerZero-Aptos-Contract) | [Twitter](https://twitter.com/layerzero_labs) | [Website](https://layerzero.network/)
+| Meson	| [Github](https://github.com/MesonFi) | [Twitter](https://twitter.com/mesonfi) | [Website](https://meson.fi/)
 | Mover | [Github](https://github.com/mov3r) | [Twitter](https://twitter.com/moverxyz) | [Website](https://mov3r.xyz/)
 | Wormhole | [Github](https://github.com/wormhole-foundation/wormhole) | [Twitter](https://twitter.com/wormholecrypto) | [Website](https://wormhole.com/)
 

@@ -202,7 +202,7 @@ A collection of live projects within the Aptos ecosystem.
 | Overmind | [Github](https://github.com/overmind-xyz) | [Twitter](https://twitter.com/overmind_xyz) | [Website](https://overmind.xyz)
 | Pyth Network | [Github](https://github.com/pyth-network) | [Twitter](https://twitter.com/PythNetwork) | [Website](https://pyth.network/)
 | Sentio XYZ | [Github](https://github.com/sentioxyz) | [Twitter](https://twitter.com/sentioxyz) | [Website](https://sentio.xyz/)
-| SonarWatch | [Github](https://github.com/sonarwatch) | [Twitter](https://twitter.com/Sonarwatch) | [Website](https://aptos.sonar.watch/)
+| SonarWatch | [Github](https://github.com/sonarwatch) | [Twitter](https://twitter.com/Sonarwatch) | [Website](https://alpha.sonar.watch/)
 | Stakely Aptos Faucet || [Twitter](https://twitter.com/stakely_io) | [Website](https://stakely.io/en/faucet/aptos-apt)
 | Streamflow | [Github](https://github.com/streamflow-finance) | [Twitter](https://twitter.com/Streamflow_fi) | [Website](https://streamflow.finance/)
 | SupraOracles || [Twitter](https://twitter.com/SupraOracles) | [Website](https://supraoracles.com/)

@@ -117,6 +117,7 @@ A collection of live projects within the Aptos ecosystem.
 | Moonpay || [Twitter](https://twitter.com/moonpay) | [Website](https://www.moonpay.com/)
 | NFTScan | [Github](https://github.com/nftscan-official) | [Twitter](https://twitter.com/nftscan_com) | [Website](https://aptos.nftscan.com/) |
 | NodeReal | [Github](https://github.com/node-real) | [Twitter](https://twitter.com/Nodereal_io) | [Website](https://nodereal.io/)
+| NOWNodes || [Twitter](https://twitter.com/NowNodes) | [Website](https://nownodes.io/)
 | Overmind | [Github](https://github.com/overmind-xyz) | [Twitter](https://twitter.com/overmind_xyz) | [Website](https://overmind.xyz)
 | Sentio | [Github](https://github.com/sentioxyz) | [Twitter](https://twitter.com/sentioxyz) | [Website](https://sentio.xyz/)
 | Sonarverse ||| [Website](https://www.sonarverse.com/)

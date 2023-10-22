@@ -51,7 +51,7 @@ A collection of live projects within the Aptos ecosystem.
 | Cetus | [Github](https://github.com/CetusProtocol) | [Twitter](https://twitter.com/CetusProtocol) | [Website](https://www.cetus.zone/)
 | Ditto || [Twitter](https://twitter.com/Ditto_Finance) | [Website](https://www.dittofinance.io/)
 | Econia | [GitHub](https://github.com/econia-labs/econia) | [Twitter](https://twitter.com/EconiaLabs) | [Website](https://econialabs.com)
-| Ferum | [Github](https://github.com/ferum-dex/) | [Twitter](https://twitter.com/ferumxyz) | [Website](https://www.ferum.xyz/)
+| Ferum | [Github]( https://github.com/ferumlabs/) | [Twitter](https://twitter.com/ferumxyz) | [Website](https://www.ferum.xyz/)
 | Foil Labs || [Twitter](https://twitter.com/foil_labs) | [Website](https://foil.so/)
 | HoustonSwap || [Twitter](https://twitter.com/Houston_swap) | [Website](https://houstonswap.io/)
 | Jujube Finance | [Github](https://github.com/jujubefinance) | [Twitter](https://twitter.com/JujubeFinance) | [Website](https://www.jujube.finance)
@@ -64,7 +64,7 @@ A collection of live projects within the Aptos ecosystem.
 | Pontem Network | [Github](https://github.com/pontem-network) | [Twitter](https://twitter.com/PontemNetwork) | [Website](https://pontem.network/)
 | RocketX | [Github](https://github.com/rocketx-labs) | [Twitter](https://twitter.com/RocketXexchange) | [Website](https://www.rocketx.exchange/)
 | Seam Money | [Github](https://github.com/seammoney/) | [Twitter](https://twitter.com/SeamMoney) | [Website](https://seam.money/)
-| Snotra | [Github](https://github.com/SnotraTech) | [Twitter](https://twitter.com/SnotraQ) | [Website](https://snotra.tech)
+| Snotra | [Github](https://github.com/SnotraTech) | [Website](https://snotra.tech)
 | Sokel || [Twitter](https://twitter.com/SokelFinance) | [Website](https://www.sokel.fi/)
 | Spectrum Protocol | [Github](https://github.com/spectrumprotocol) | [Twitter](https://twitter.com/SpecProtocol) | [Website](https://aptos.spec.finance/)
 | Starswap | [Github](https://github.com/Elements-Studio/starswap-core-aptos) | [Twitter](https://twitter.com/StarswapEN) | [Website](https://starswap.xyz/)
@@ -80,7 +80,6 @@ A collection of live projects within the Aptos ecosystem.
 |-----------------------------|------------------------------------------------|-------------------------------------------|
 | Apscan by Apscan            |[Github](https://github.com/Apscan)             | [Website](https://apscan.io/)             |
 | Aptos Explorer by AptosLabs |[Github](https://github.com/aptos-labs/explorer)|[Website](https://explorer.aptoslabs.com/) |
-| AptoScan.xyz by 3NJOY Labs  |                                                | [Website](https://aptoscan.xyz)           |
 | AptoScan by EtherScan       |                                                | [Website](https://aptoscan.com/)          |
 | Aptscan.ai by Solscan       |[Github](https://github.com/aptscan-ai)         | [Website](https://aptscan.ai)             |
 | NFTScan                     |                                                | [Website](https://aptos.nftscan.com/)     |

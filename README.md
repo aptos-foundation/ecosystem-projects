@@ -32,6 +32,7 @@ A collection of live projects within the Aptos ecosystem.
 | Axelar | [Github](https://github.com/axelarnetwork) | [Twitter](https://twitter.com/axelarcore) | [Website](https://axelar.network/)
 | Celer | [Github](https://github.com/celer-network) | [Twitter](https://twitter.com/CelerNetwork) | [Website](https://www.celer.network/)
 | LayerZero | [Github](https://github.com/LayerZero-Labs/LayerZero-Aptos-Contract) | [Twitter](https://twitter.com/layerzero_labs) | [Website](https://layerzero.network/)
+| Meson	| [Github](https://github.com/MesonFi) | [Twitter](https://twitter.com/mesonfi) | [Website](https://meson.fi/)
 | Mover | [Github](https://github.com/mov3r) | [Twitter](https://twitter.com/moverxyz) | [Website](https://mov3r.xyz/)
 | Wormhole | [Github](https://github.com/wormhole-foundation/wormhole) | [Twitter](https://twitter.com/wormholecrypto) | [Website](https://wormhole.com/)
 
@@ -116,9 +117,11 @@ A collection of live projects within the Aptos ecosystem.
 | Moonpay || [Twitter](https://twitter.com/moonpay) | [Website](https://www.moonpay.com/)
 | NFTScan | [Github](https://github.com/nftscan-official) | [Twitter](https://twitter.com/nftscan_com) | [Website](https://aptos.nftscan.com/) |
 | NodeReal | [Github](https://github.com/node-real) | [Twitter](https://twitter.com/Nodereal_io) | [Website](https://nodereal.io/)
+| NOWNodes || [Twitter](https://twitter.com/NowNodes) | [Website](https://nownodes.io/)
 | Overmind | [Github](https://github.com/overmind-xyz) | [Twitter](https://twitter.com/overmind_xyz) | [Website](https://overmind.xyz)
 | Sentio | [Github](https://github.com/sentioxyz) | [Twitter](https://twitter.com/sentioxyz) | [Website](https://sentio.xyz/)
 | Sonarverse ||| [Website](https://www.sonarverse.com/)
+| Spheron Network| [Github](https://github.com/spheronFdn) | [Twitter](https://twitter.com/SpheronFDN) | [Website](https://spheron.network/)
 | Switchboard | [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 | ZettaBlock |[Github](https://github.com/Zettablock) | [Twitter](https://twitter.com/ZettaBlockHQ) | [Website](https://www.zettablock.com/)
 | 4EVERLAND | [Github](https://github.com/4everland) | [Twitter](https://twitter.com/4everland_org) | [Website](https://www.4everland.org/)
@@ -172,6 +175,7 @@ A collection of live projects within the Aptos ecosystem.
 | Name | Github  | Twitter | Website |
 |------|---------|---------|---------|
 | OtterSec | [Github](https://github.com/otter-sec) | [Twitter](https://twitter.com/osec_io) | [Website](https://osec.io/)
+| Zellic | [Github](https://github.com/Zellic) | [Twitter](https://twitter.com/zellic_io) | [Website](https://zellic.io/)
 
 ## Social
 | Name | Github  | Twitter | Website |
@@ -201,13 +205,14 @@ A collection of live projects within the Aptos ecosystem.
 | Overmind | [Github](https://github.com/overmind-xyz) | [Twitter](https://twitter.com/overmind_xyz) | [Website](https://overmind.xyz)
 | Pyth Network | [Github](https://github.com/pyth-network) | [Twitter](https://twitter.com/PythNetwork) | [Website](https://pyth.network/)
 | Sentio XYZ | [Github](https://github.com/sentioxyz) | [Twitter](https://twitter.com/sentioxyz) | [Website](https://sentio.xyz/)
-| SonarWatch | [Github](https://github.com/sonarwatch) | [Twitter](https://twitter.com/Sonarwatch) | [Website](https://aptos.sonar.watch/)
+| SonarWatch | [Github](https://github.com/sonarwatch) | [Twitter](https://twitter.com/Sonarwatch) | [Website](https://alpha.sonar.watch/)
 | Stakely Aptos Faucet || [Twitter](https://twitter.com/stakely_io) | [Website](https://stakely.io/en/faucet/aptos-apt)
 | Streamflow | [Github](https://github.com/streamflow-finance) | [Twitter](https://twitter.com/Streamflow_fi) | [Website](https://streamflow.finance/)
 | SupraOracles || [Twitter](https://twitter.com/SupraOracles) | [Website](https://supraoracles.com/)
 | Switchboard | [Github](https://github.com/switchboard-xyz) | [Twitter](https://twitter.com/switchboardxyz) | [Website](https://switchboard.xyz/)
 | Move Developers DAO | [Github](https://github.com/movedevelopersdao) | [Twitter](https://twitter.com/MoveBuilders) | [Website](https://movedevelopers.com/) |
 | Wallet SDK by Everstake | [Github](https://github.com/everstake/wallet-sdk) | [Twitter](https://twitter.com/everstake_pool) | [Website](https://wallet-sdk.everstake.one)
+| WELLDONE Code | [Github](https://github.com/dsrvlabs/wds-code-remix) | [Twitter](https://twitter.com/WelldoneStudio_) | [Website](https://docs.welldonestudio.io/code)
 
 ## Wallets
 | Name | Github  | Twitter | Website |
@@ -217,7 +222,9 @@ A collection of live projects within the Aptos ecosystem.
 | EVO Wallet || [Twitter](https://twitter.com/EvoWalletAptos) | [Website](https://evowallet.app/)
 | Fewcha | [Github](https://github.com/fewcha-wallet) | [Twitter](https://twitter.com/fewchawallet) | [Website](https://fewcha.app/)
 | Fletch ||| [Website](https://fletchwallet.io/)
+| Flipper | [Github](https://github.com/flipperplatform) | [Twitter](https://twitter.com/flipper) | [Website](https://flipper.org/)
 | FoxWallet | [Github](https://github.com/foxwallet) | [Twitter](https://twitter.com/FoxWallet) | [Website](https://foxwallet.com/)
+| Gem Wallet | [Github](https://github.com/gemwallet) | [Twitter](https://twitter.com/gemwalletapp) | [Website](https://gemwallet.com/)
 | Hive Wallet || [Twitter](https://twitter.com/hivewithme) | [Website](https://www.hivewithme.xyz/)
 | Martian || [Twitter](https://twitter.com/martian_wallet) | [Website](https://martianwallet.xyz/)
 | Math Wallet | [Github](https://github.com/mathwallet) | [Twitter](https://twitter.com/Mathwallet) | [Website](https://mathwallet.org/)
@@ -230,7 +237,7 @@ A collection of live projects within the Aptos ecosystem.
 | Spacecy Wallet | [Github](https://github.com/SpacecyWallet) | [Twitter](https://twitter.com/SpacecyWallet) | [Website](https://spacecywallet.com/)
 | StarMask | [Github](https://github.com/starcoinorg/starmask-extension) |[Twitter](https://twitter.com/StarcoinSTC)| [Website](https://westar.io/project/#starmask)
 | Trust Wallet | [Github](https://github.com/trustwallet) | [Twitter](https://twitter.com/trustwallet) | [Website](https://trustwallet.com/)
-
+| WELLDONE Wallet || [Twitter](https://twitter.com/WelldoneStudio_) | [Website](https://docs.welldonestudio.io/wallet)
 
 
 ---

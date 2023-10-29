@@ -98,7 +98,8 @@ A collection of live projects within the Aptos ecosystem.
 | METAPIXEL || [Twitter](https://twitter.com/METAPIXEL) | [Website](https://metapixel.io/)
 | Ryoshi Tales || [Twitter](https://twitter.com/RyoshiTales) | [Website](https://ryoshitales.io)
 | Werewolf vs Witch | [Github](https://github.com/werewolfandwitch/aptos_werewolfandwitch) | [Twitter](https://twitter.com/AWW_xyz) | [Website](https://werewolfandwitch.xyz/)
-| Super Athletes Club || [Twitter](https://twitter.com/sacnft_official) | [Website](https://sac-nft.com/)
+| Super Athletes Club || [Twitter](https://twitter.com/sacnft_official) | [Website](https://sac-nft.com/) 
+| Astro Clans | [Github](https://github.com/aptos-gaming/astro-clans) | [Twitter](https://twitter.com/astroclans) | [Website](https://aptos.metaversium.io/) |
 
 ## Infra
 | Name | Github  | Twitter | Website |

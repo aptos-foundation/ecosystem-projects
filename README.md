@@ -92,6 +92,7 @@ A collection of live projects within the Aptos ecosystem.
 | Aptos Flip | | [Twitter](https://twitter.com/aptosflip) |[Website](https://aptflip.com) |
 | Aptos Wolf Game | [Github](https://github.com/aptoswolfgame) | [Twitter](https://twitter.com/wolfgameaptos) | [Website](https://wolfgameaptos.xyz/) |
 | AptosReels || [Twitter](https://twitter.com/APToons_) | [Website](https://hello-world-aptoons.vercel.app/)
+| Astro Clans | [Github](https://github.com/aptos-gaming/astro-clans) | [Twitter](https://twitter.com/astroclans) | [Website](https://aptos.metaversium.io/) |
 | Byten || [Twitter](https://twitter.com/BytenOfficial) | [Website](https://byten.io/)
 | Drawshop Kingdom Reverse || [Twitter](https://twitter.com/DrawshopKingdom) | [Website](https://drawshop.io)
 | Kudo Money | [Github](https://github.com/kudo-money) | [Twitter](https://twitter.com/kudomoney) | [Website](https://www.ludopro.app/) |
@@ -99,7 +100,6 @@ A collection of live projects within the Aptos ecosystem.
 | Ryoshi Tales || [Twitter](https://twitter.com/RyoshiTales) | [Website](https://ryoshitales.io)
 | Werewolf vs Witch | [Github](https://github.com/werewolfandwitch/aptos_werewolfandwitch) | [Twitter](https://twitter.com/AWW_xyz) | [Website](https://werewolfandwitch.xyz/)
 | Super Athletes Club || [Twitter](https://twitter.com/sacnft_official) | [Website](https://sac-nft.com/) 
-| Astro Clans | [Github](https://github.com/aptos-gaming/astro-clans) | [Twitter](https://twitter.com/astroclans) | [Website](https://aptos.metaversium.io/) |
 
 ## Infra
 | Name | Github  | Twitter | Website |

@@ -2,6 +2,10 @@
 	<img width="100%" src="./assets/images/aptos_banner_ecosystem.jpg" alt="Aptos Ecosystem Banner" />
 </a>
 
+# Please see [Foundation's Ecosystem Projects page](https://aptosfoundation.org/ecosystem/projects/all)
+
+This page has been deprecated and will no longer be maintained.
+
 # **Aptos Ecosystem**
 
 A collection of live projects within the Aptos ecosystem.

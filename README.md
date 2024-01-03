@@ -5,6 +5,11 @@
 # Please see [Foundation's Ecosystem Projects page](https://aptosfoundation.org/ecosystem/projects/all)
 
 This page has been deprecated and will no longer be maintained.
+The below information may be outdated.
+No new pull requests will be accepted.  
+Please see the new [Foundation's Ecosystem Projects page](https://aptosfoundation.org/ecosystem/projects/all) for submissions and updates.
+
+---
 
 # **Aptos Ecosystem**
 
@@ -241,27 +246,3 @@ A collection of live projects within the Aptos ecosystem.
 | StarMask | [Github](https://github.com/starcoinorg/starmask-extension) |[Twitter](https://twitter.com/StarcoinSTC)| [Website](https://westar.io/project/#starmask)
 | Trust Wallet | [Github](https://github.com/trustwallet) | [Twitter](https://twitter.com/trustwallet) | [Website](https://trustwallet.com/)
 | WELLDONE Wallet || [Twitter](https://twitter.com/WelldoneStudio_) | [Website](https://docs.welldonestudio.io/wallet)
-
-
----
-
-
-# Contribution Guidelines
-
-This list is a grouped collection of live projects built on [Aptos](https://aptosfoundation.org).
-Please note that this list is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this list you agree to abide by its terms.
-
-Ensure your pull request adheres to the following:
-- `|`
-- Project Name in *Title Case* followed by ` | `
-- Accepted Links - *Github*, *Twitter*, *Website URL* each separated by ` | `
-- Ensure project is grouped within the correct category, no more than *2* allowed
-- Entries should be arranged in alphabetical order sorted by Project Name
-
-Example: `| Project Name | [Github](url) | [Twitter](url) | [Website](url)`
-
-
-## Updating your PR
-
-If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
